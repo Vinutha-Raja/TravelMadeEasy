@@ -1,0 +1,1710 @@
+{
+  "accessibility": [], 
+  "budget": [
+    {
+      "_id": "hillaerospacemuseum_camper45_1561960800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Great for budget minded folks and anyone that has respect for our military and wonderment of the ability to take flight.\nTake your kids, on a date, with family and friends and celebrate! Not uncommon to see military vets there offering information.\nIts a good place to be an American. Take time to go to Hill AFB. Pay respect and stand in awe of the amazing machines and museum collections of memorabilia because..... we must never forget!", 
+        "companion": "friends", 
+        "contributions": 15, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1568008800", 
+        "review_title": "Must see and its free!", 
+        "reviewer": "Camper45", 
+        "visit_time": "1561960800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_nmbiela_1467352800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I might even pay to get in. But it's free! Lots to aircraft to see inside and out. Just wish it was open on Sun but, budget cuts took care of that.", 
+        "companion": "family", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1469167200", 
+        "review_title": "Can't beat the price of admission", 
+        "reviewer": "nmbiela", 
+        "visit_time": "1467352800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_flower2416_1343800800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "For a museum that only asks for a donation, this is a must for anyone on a budget. Full size airplanes for the kids to run around, who could ask for more. Don't miss the play area, the kids had a blast there. Recommend all ages.", 
+        "contributions": 87, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1357110000", 
+        "review_title": "Full size airplanes", 
+        "reviewer": "flower2416", 
+        "visit_time": "1343800800"
+      }, 
+      "_type": "_doc"
+    }
+  ], 
+  "food": [
+    {
+      "_id": "hillaerospacemuseum_nicoleht_1601532000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I can't believe this place is free. I would happily pay but am so thankful it is free. My husband LOVES jets/planes, etc. My son also really enjoyed it and I did too. I learned SO much. The staff was so very helpful and I was blown away by their knowledge. They really go above and beyond to make guests understand what they are looking at.\nWe bought some things from the gift shop, the staff in the shop was so friendly and helpful too.\nAfter we spent an hour or so in the museum we ate outside at a picnic table (I packed lunch) and it was REALLY fun to eat as a family under the wing of jet. If you are even slightly interested in jets/planes you will have a ball here!", 
+        "contributions": 328, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1613545200", 
+        "review_title": "Knowledgeable Staff, great gift store", 
+        "reviewer": "NicoleHT", 
+        "visit_time": "1601532000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_scottie552_1535781600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This morning we drove north on Fwy I-14 from Salt Lake City and left the freeway at Exit 338.\nOur destination was the Hill Aerospace Museum on the north side of Hill Air Force Base. The museum is quite spectacular and very informative. They have a lot of aircraft, about 72 all told. About 50 are located inside and the balance are located outside. The aircraft included fighters, bombers, helicopters and passenger/cargo aircraft and were either piston or jet engine powered. All the aircraft were military, no civilian passenger planes. Most of the aircraft has been serviced at Hill AFB. In addition to the aircraft, there are a number of drones and missiles.\nThere was NO charge to tour the Museum. There is a gift shop but no canteen (restaurant) on site.\nThere is so much to see that we went back a second day. This time, we walked by all the outside aircraft.\nIt was well worth the visit as our returning to complete our tour reflected.", 
+        "companion": "couples", 
+        "contributions": 285, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1539842400", 
+        "review_title": "A great and information aviation museum", 
+        "reviewer": "scottie552", 
+        "visit_time": "1535781600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_anon58759_1527832800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "My husband loves this museum and has visited it multiple times (we live in Washington). It can be overwhelming, but luckily it is free! We went just after school let out; I'm sure it's a great venue for kids as they can eat a sack lunch outside and have free admission. It was nice to see dads and grandpas visiting with their young family members. The WASP exhibit was great, very informative.\nThe directions were easy to locate from either the Ogden side or Roy.", 
+        "companion": "solo", 
+        "contributions": 193, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1530252000", 
+        "review_title": "Good museum", 
+        "reviewer": "Anon58759", 
+        "visit_time": "1527832800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_juliel_1514790000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Not sure why more people dont note this is free in their title!\nIts a huge display of military aircraft and some really interesting displays on both the craft and the people that fought in the US military during WW1, WW2, the Korean and Vietnamese Wars. I learned a few things that I am surprised there hasnt been movies made about, like the women that flew for the Air Force in WW2 (the WASPs).\nYou could easily spend hours here if you have the time. Theres a small gift shop but no cafe.\nThe volunteer staff are lovely and keen to share their knowledge.\nTake a camera!", 
+        "companion": "couples", 
+        "contributions": 871, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1515049200", 
+        "review_title": "Great museum and its Free!", 
+        "reviewer": "Julie L", 
+        "visit_time": "1514790000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_wildorchidss_1498888800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This museum is a great place to take the family to. So much to see. Planes outside and inside. Sometimes they have classss for the kids in their education rooms. There is a scavenger hunt you can print off for the older kids and adults. The volunteers are great if you have any questions. There is a gift shop if you want the kiddos to pick something out at the end. Bring a picnic lunch and sit on the tables provided outside. And take lots of pictures.", 
+        "companion": "family", 
+        "contributions": 5, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1502863200", 
+        "review_title": "Fun and Educational", 
+        "reviewer": "Wildorchidss", 
+        "visit_time": "1498888800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_rockyr_1480575600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I've been here many times, but this was the first trip with my grandson. Seeing it through his eyes was refreshing. I have my favorites planes to ogle and dream of flying, and he added his own delight to others. There are enough planes and aviation-related items to marvel at for several visits. Not everything is in pristine shape, such as the forlorn little O-2 FAC aircraft wedged in as an afterthought in the Fighter Hangar. One thing they need is a snack bar or mini-cafe. People would spend more time there if they didn't get hungry or thirsty.", 
+        "companion": "family", 
+        "contributions": 160, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1483945200", 
+        "review_title": "Not a One-Trip Wonder", 
+        "reviewer": "Rocky R", 
+        "visit_time": "1480575600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_mleng_1467352800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I visited this museum in the afternoon, after spending the morning at the Antelope Island State Park to visit the Great Salt Lake. I was staying at a hotel in downtown SLC. To go back to the city, I had to drive 15 minutes from the island to a town called Layton. From there, I would get on I-15 going south to SLC. Hill Museum is in Roy which is 5 minutes drive in the other direction on I-15 North.\nI am not an airplane buff, but I still can appreciate the value of this place with its sheer size and the vast number of airplanes -- there are 2 hangars each with about 20+ airplanes, then an outdoor park with about another 20+ airplanes. I also really enjoyed the notes on the placards that explained the historical background associated with each airplane and the details of the wars those planes flew in. I spent about 2 hours there..\nIn short, if you have a special interest in military history or airplanes, then it's a must visit place. If you are just an average person, then it's a nice add-on excursion if you go to Antelope Island to visit the Great Salt Lake, which by the way is a must-visit if you like nature and the outdoors.", 
+        "companion": "solo", 
+        "contributions": 39, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1469685600", 
+        "review_title": "awesome museum for airplane buffs, nice add-on visit to Antelope Island for others", 
+        "reviewer": "mleng", 
+        "visit_time": "1467352800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_ashleyc_1435730400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Not very fun for small kids but a good time for teenagers and adults. It was very warm inside and was posted for no food and drinks but water would have been nice to have.", 
+        "companion": "family", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1445839200", 
+        "review_title": "Interesting", 
+        "reviewer": "Ashley C", 
+        "visit_time": "1435730400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_robertc_1438408800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Great aerospace museum. The weather is getting to some of the outside displays, but the inside displays are pristine. Lot's of aircraft and other related exhibits. Great volunteers who will answer your questions about the exhibits. If you are traveling through the Roy area on I-15, plan a lunch stop here. You can eat under the wings of an exhibit and then see the rest of the museum. Plan for at least an hour. The best part of all is it's free. They will always welcome donations to keep funding the special programs they put on.", 
+        "companion": "solo", 
+        "contributions": 69, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1441087200", 
+        "review_title": "Better Than Average Museum", 
+        "reviewer": "Robert C", 
+        "visit_time": "1438408800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_bakedtomato_1427868000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "An exceptional museum right on the freeway in Ogden. Admission by donation. Two huge buildings filled with planes, memorabilia and information. Outside of the building are aircraft just amazing to be able to walk up and appreciate the size of them. Kids will love running around outside to burn off energy. I suggest you go through the first gallery, have a break (no restaurant here sadly - just a gift shop) and come back to do the second gallery. You don't want to become \"planed out\". Really a fantastic exhibit. Well worth the stop. There's even a Walmart close by for those who like to camp free.....", 
+        "companion": "couples", 
+        "contributions": 40, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1430200800", 
+        "review_title": "Thought we'd stop for an hour.... 4 hours later.", 
+        "reviewer": "bakedtomato", 
+        "visit_time": "1427868000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_jayg", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Nice museum plenty of aircraft to see in 2 hangers old & newer jets one from the presidential fleet & some big jets outside including my favourite one the b1 bomber. It has a nice little gift shop but unfortunately in my opinion it needs couple of vending machines for food so you need to bring your own & have a picnic in amongst the jets outside. Also jet fighters & other aircraft were flying out of Hills air force base so it was an added treat to see them it is a great way to spend half a day at no cost just a donation.", 
+        "contributions": 45, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1427954400", 
+        "review_title": "B1", 
+        "reviewer": "jay G"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_ostraveller70_1425193200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "There were so many things to see here so if you love planes you have to visit. Two huge hanger's filled with well kept old planes and massive ones outside that you can walk around and under. The admission is free but donations are a good idea and it has a cute little gift shop. No food but place for a picnic under the planes.", 
+        "companion": "family", 
+        "contributions": 20, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1427090400", 
+        "review_title": "Lots to see for free!", 
+        "reviewer": "ostraveller70", 
+        "visit_time": "1425193200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_swmdl60_1409551200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Its quite large. It has indoor displays and outdoor displays.\nThe building you enter houses the gift shop, uniform display and theater and the building is connected to the first indoor airplane display and that building is connected to another indoor airplane gallery. The walkway between the two indoor galleries showcases the Utah Aviation Hall of Fame. Each airplane has a fact sheet type of posting that shows the name, manufacture, engine size, range, etc. as well as its history.\nI went with my history/military buff pilot husband and he loved it. He said he saw a couple of airplanes he had never seen in other well known air museums. Some exhibits make you deeply appreciate those airmen and airwomen who fought for their (and our) lives while confined for hours in tight and awfully uncomfortable looking seats as well as the ground/support crews that provided infallible workmanship.\nWe saw some families with smaller children and the little guys are all happy and in awe with the exhibits. Speaking of families, there is an outdoor picnic area you can drink and eat while watching airplanes. You cant bring food or drink inside but its ok to eat/drink outside and there was a beverage vending machine.\nThe title of this review is coming from a displayed F/RF-4Cs decal: F/RF-4C PHABULOUS PHANTOMS PHOREVER (see the photo).\nPut on a pair of comfortable shoes and go.", 
+        "companion": "couples", 
+        "contributions": 181, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1412056800", 
+        "review_title": "Phabulous Phantoms Phorever", 
+        "reviewer": "SWMDL60", 
+        "visit_time": "1409551200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_lindsiem_1393657200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a fun outing when it's too hot/cold to do anything outdoors. My son LOVES planes and helicopters and the museum has a lot of displays. It is a lot of walking as it has a lot of planes, jets, helicopters, displays, etc. So if you have younger kids definitely bring strollers or wagons. We all got into it- and for free, can't beat that! The gift shop has astronaut food as well which is kind of cool. I think all kids, regardless of age or gender, can have an interesting time here.", 
+        "companion": "family", 
+        "contributions": 19, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1405404000", 
+        "review_title": "Free, a lot of history, cool family outing idead", 
+        "reviewer": "Lindsie M", 
+        "visit_time": "1393657200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_roadtripamericans_1367388000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The Hill Aerospace Museum is located on approximately 30 acres on the northwest corner of Hill Air Force Base, about five miles south of Ogden. The museum was founded in 1981 as a part of the United States Air Force Heritage Program and first opened in 1986. It moved to its current facility in 1991.\nThe Museum exhibits more than 90 military aircraft, missiles, and aerospace vehicles on the grounds and inside the Major General Rex A. Hadley Gallery and the Lindquist Stewart Fighter Gallery.\nThe list of aircraft on display is extensive. The collection also includes a wide variety of ordnance and munitions, an assortment of aerospace ground equipment, rockets, military vehicles, uniforms, and thousands of other historical artifacts.\nWe highly recommend a visit to the museum for aviation enthusiasts, and anyone with an interest in vintage aircraft and the United States Air Force history. It truly is an incredible facility well worth visiting.\nIt is conveniently located just off I-15 at Exit 338, Roy Exit. A gate pass onto Hill AFB is NOT required to visit the museum. Simply take Exit 338 (east) off Interstate 15 in Roy, Utah, and enter the museum grounds through the gate.\nAlso housed in the museum is an extensive, well-stocked gift shop. Food service is not provided onsite.\nParking and admission is free.\nOn our last visit in May of 2013, we spent nearly three hours in the museum. But the exhibits are so extensive and well done, that one could easily spend an entire day, and not see everything.", 
+        "companion": "couples", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1381816800", 
+        "review_title": "Excellent Air Force Museum", 
+        "reviewer": "RoadTripAmericans", 
+        "visit_time": "1367388000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_paulquillen_1346479200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "If you're into aircraft, this is the place to go.\nIt's free too.\nInside and outside exhibits.\nVery educational. Well laid out. Plan on a few hours to absorb everything. Maybe longer.\nOne of the best attraction in Utah.\nAlso consider visiting Union Station, a few miles north, where there's a railroad museum, the John Browning firearms museum, an old car museum, and a tiny art museum, all for one small fee. Plus a restaurant serving the world's best Cobb Salad.", 
+        "companion": "friends", 
+        "contributions": 188, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1376114400", 
+        "review_title": "Very high quality aircraft museum...", 
+        "reviewer": "PaulQuillen", 
+        "visit_time": "1346479200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_billz_1351749600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The Hill Aerospace Museum, located on Hill Air Force Base, Utah, south of Ogden, Utah was founded in 1981 as a part of the United States Air Force Heritage Program and first opened in 1986, moving to its current location in 1991.\nThe museum has more than 90 military aircraft, missiles, and aerospace vehicles on the grounds and inside the Major General Rex A. Hadley Gallery and the Lindquist Stewart Fighter Gallery. The collection also includes a wide variety of ordnance and munitions, an assortment of aerospace ground equipment, military vehicles, uniforms, and thousands of other historical artifacts.\nThe very well stocked gift shop is part of the facility but no food services are present. An excellent all-round museum, focusing of USAF aircraft but very much a top museum in every respect.", 
+        "companion": "couples", 
+        "contributions": 2460, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1374732000", 
+        "review_title": "Top-flight museum", 
+        "reviewer": "Bill Z", 
+        "visit_time": "1351749600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_travelwhenican67_1306908000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Went here for about an hour while guys went golfing. I do not know much about planes, but was very impressed with this museum. First of all, there was no admission, only donations. There are planes on display outside, then in 2 warehouse like areas inside full of more. Could have easily spent more time here (picnic benches outside under/around planes on a nice day would make for a nice lunch spot;)). If you are I the area or passing by, hope you have time to go and make a donation to this great display.", 
+        "companion": "solo", 
+        "contributions": 1062, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1309413600", 
+        "review_title": "Hidden Gem!!!", 
+        "reviewer": "travelwhenIcan67", 
+        "visit_time": "1306908000"
+      }, 
+      "_type": "_doc"
+    }
+  ], 
+  "general_info": [
+    {
+      "_id": "hillaerospacemuseum_stephanies_1627797600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Wow! Huge selection of WWI through present-day aircraft, both inside and outside the museum, all perfectly displayed. Plenty of informative signage to learn about each plane and accompanying paraphernalia. Knowledgable and friendly retired airmen (?) available to answer any question. Large and well-stocked gift shop, too. We really enjoyed our visit!", 
+        "contributions": 72, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1631685600", 
+        "review_title": "\"Off we went . . . into the Wild Blue Yonder!\"", 
+        "reviewer": "Stephanie S", 
+        "visit_time": "1627797600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_patriciam_1625119200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I'm not a military or aviation fanatic, but I did enjoy walking through the exhibits. There's lots to see indoor if it's too hot to walk through the outdoor exhibit. There's a scavenger hunt to keep young kids interested.", 
+        "companion": "couples", 
+        "contributions": 23, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1625205600", 
+        "review_title": "Aviation history", 
+        "reviewer": "Patricia M", 
+        "visit_time": "1625119200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_nickk7501_1622527200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "What a find! An incredible collection of aircraft from throughout history, along with memorabilia, artifacts and placards to explain it all.\nSpread across two large hangers and outdoors, this place is incredible - and free (other than your tax dollars). Wear comfortable walking shoes for these concrete floors.\nA must-see for any air buff.", 
+        "companion": "couples", 
+        "contributions": 257, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1624773600", 
+        "review_title": "Best air and space museum west of the Smithsonian.", 
+        "reviewer": "NickK7501", 
+        "visit_time": "1622527200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_matthewt_1619848800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I am an airplane junkie. I love getting to go to museums that have anything to do space and aerospace. While this pales in comparison to other museums size wise, it is still definitely worth a visit. For me this was a trip down memory lane. The aircraft that are indoors are very well preserved and cared for. While there are some items that have displays explaining what the items are, there are some that are not labeled. There is a very descriptive display for our heroes that served in Vietnam. The museum is free to visit although there are plenty of donation boxes around the museum. The staff do not bug you about contributions. The staff are also very friendly and want to help. Like I said, it is definitely worth a visit if you have any interest in aircaraft.", 
+        "companion": "family", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1621576800", 
+        "review_title": "Airplane Junkie", 
+        "reviewer": "Matthew T", 
+        "visit_time": "1619848800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_garyjodif_1619848800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "What an amazing collection of historic planes. A must see for anyone interested in military history or airplanes. Well worth the trip to Ogden.", 
+        "contributions": 36, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1620972000", 
+        "review_title": "A highlight of our Salt Lake City area visit", 
+        "reviewer": "GaryJodiF", 
+        "visit_time": "1619848800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_cgcommander_1619848800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Outstanding display of aviation history in the military services. The aircraft are displayed so that you can observe them, and there are volunteers to answer questions.\nI am a retired Coast Guard Officer, and the gift shop had more Coast Guard \"stuff\" than any Coast Guard Exchange.....and I bought at least one of each item they were selling.", 
+        "contributions": 853, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1620280800", 
+        "review_title": "Excellent Display of Military Aircraft", 
+        "reviewer": "CG Commander", 
+        "visit_time": "1619848800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_mcanultyc_1617256800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Today was our first ever visit to this museum and we were absolutely thankful we found it!! The displays of military planes were wonderful and informative. The volunteers were great with some wonderful historical knowledge of facts about the military planes in the museum. The gift shop had a wonderful variety of items to purchase from toy planes to clothing. Highly recommend this place for families and aviation fans, especially when youre able to enjoy everything at no cost!!!", 
+        "companion": "family", 
+        "contributions": 88, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1617775200", 
+        "review_title": "Outstanding Aerospace Museum", 
+        "reviewer": "mcanultyc", 
+        "visit_time": "1617256800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_nicoleht_1601532000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I can't believe this place is free. I would happily pay but am so thankful it is free. My husband LOVES jets/planes, etc. My son also really enjoyed it and I did too. I learned SO much. The staff was so very helpful and I was blown away by their knowledge. They really go above and beyond to make guests understand what they are looking at.\nWe bought some things from the gift shop, the staff in the shop was so friendly and helpful too.\nAfter we spent an hour or so in the museum we ate outside at a picnic table (I packed lunch) and it was REALLY fun to eat as a family under the wing of jet. If you are even slightly interested in jets/planes you will have a ball here!", 
+        "contributions": 328, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1613545200", 
+        "review_title": "Knowledgeable Staff, great gift store", 
+        "reviewer": "NicoleHT", 
+        "visit_time": "1601532000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_fscbosses_1601532000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We really enjoyed visiting the museum, it has beautiful displays and aircraft. Admission was free, so that's a plus! You can walk around at you own pace, and the volunteers are nice and full of great information. There is plenty to see outside, and they have picnic tables available. It was very clean, and they are following covid protocols so bring your mask. Google map sends you to the wrong exit FYI, so get the address from somewhere else.", 
+        "companion": "couples", 
+        "contributions": 161, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1603692000", 
+        "review_title": "Worth a visit", 
+        "reviewer": "FSCBosses", 
+        "visit_time": "1601532000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_cbmike_1598940000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "If you are even remotely interested in airplanes and airplane history you have to come see the Hill Aerospace Museum!!\nThe exhibits are beyond fascinating. Dozens of historical planes, recent historic planes and planes of today. All are in extremely great condition.\nIn addition to the planes there are also wheeled vehicles, sample uniforms from days gone by, and stories about famous airmen.\nAre also docents around the museum willing to talk to you about any of the exhibits; and extremely knowledgeable.\nThere are both inside and outside exhibits.\nI was there for 3 hours and it seemed like I had been there for about 15 minutes. Dozens of photos and some great memories.\nI highly suggest a visit to Hill Aerospace Museum if you are anywhere with in a hundred miles of Ogden, Utah!!", 
+        "companion": "friends", 
+        "contributions": 171, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1601445600", 
+        "review_title": "Amazing Experience", 
+        "reviewer": "CBMike", 
+        "visit_time": "1598940000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_traviss_1598940000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I first went to this museum 34 years ago when it was a few aircraft parked on the west side of Hill Air Force Base. I just went back and the museum is fantastic. The planes, information, and displays were great. I would highly recommend a visit. There is a lot of space in the museum so you never feel too crowded inside or outside.", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1601445600", 
+        "review_title": "Great Museum", 
+        "reviewer": "Travis S", 
+        "visit_time": "1598940000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_richk_1596261600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "A pleasant aerospace museum showcasing some vintage planes, most under roof. You get very close to the planes. Because of COVID you can't get into the cockpits of the ones that they normally open cockpits for. This is an average museum and in my opinion falls into the \"if you've seen one aerospace museum you've seen them all\" category. It's not much different than other typical plane museums. It is on Hill AFB but you don't go on base. The museum is very clean and kept up very nicely. We made a special trip up that way to see it and it really wasn't worth it because it's just another plane museum. Still, if you live nearby, or in the area and want to find a place to kill a few hours with the kids, this will do it for sure.", 
+        "contributions": 36, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1598248800", 
+        "review_title": "A good museum, but is like most other plane museums.", 
+        "reviewer": "Rich K", 
+        "visit_time": "1596261600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_penny5555_1585720800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The outside static display when you first arrive is very interesting with wonderful signage that gave lots of interesting facts about the aircraft", 
+        "companion": "couples", 
+        "contributions": 131, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1591077600", 
+        "review_title": "Really Interesting", 
+        "reviewer": "Penny5555", 
+        "visit_time": "1585720800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_tacomatrd_1575183600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This Museum is great for young and old. It is free but they have places to donate and as good as this is you will want to donate some. The volunteers are very helpful and will take you on a guided tour if you like. It is arranged in a way that you start at the beginning of our military aviation on up to today. There is a lot of tributes to local heroes even some of their uniforms are on display. There are a lot of excellent static examples from bi-planes to SR - 71s, F16s, B 52, C 124s and even a B29 and more. I highly recommend this museum.", 
+        "companion": "couples", 
+        "contributions": 529, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1577948400", 
+        "review_title": "Excellent and Very educational.", 
+        "reviewer": "TacomaTRD", 
+        "visit_time": "1575183600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_2doglady_1572588000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "As we travel, we have seen several aerospace museums. This one is smaller than others we have seen and does not have the quantity that those places have, but it is still very nice and has an impressive collection. There is a film you can watch, and there are two main indoor areas with planes and helicopters to see. Some are hanging and many are on the floor. They are labeled so you know their significance. Then they have a nice number of aircraft outside that you can walk along the sidewalk to see up close. They also have a small gift shop inside. We spent about an hour and a half here and felt that was sufficient. If you just love airplanes and want to read all the display information, you will want more time. As I think back on our visit here, I remember this small boy there with some other men in his family. He just kept saying Whoa! as he saw all these large aircraft. So that should tell you that the displays are impressive. Enjoyable visit and you cant beat the price...free! And free parking!", 
+        "companion": "couples", 
+        "contributions": 654, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1573628400", 
+        "review_title": "Impressive Collection", 
+        "reviewer": "2doglady", 
+        "visit_time": "1572588000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_texaseagle_1572588000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Great museum with outdoor and indoor aircraft in absolutely pristine condition. By the way admission is free! Volunteers throughout are very helpful and there are interactive exhibits as well.", 
+        "companion": "couples", 
+        "contributions": 570, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1573455600", 
+        "review_title": "Absolutely great", 
+        "reviewer": "TexasEagle", 
+        "visit_time": "1572588000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_camper45_1561960800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Great for budget minded folks and anyone that has respect for our military and wonderment of the ability to take flight.\nTake your kids, on a date, with family and friends and celebrate! Not uncommon to see military vets there offering information.\nIts a good place to be an American. Take time to go to Hill AFB. Pay respect and stand in awe of the amazing machines and museum collections of memorabilia because..... we must never forget!", 
+        "companion": "friends", 
+        "contributions": 15, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1568008800", 
+        "review_title": "Must see and its free!", 
+        "reviewer": "Camper45", 
+        "visit_time": "1561960800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_murraym_1564639200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "If you needed a reason to visit this place, it's the nicest ones I have ever seen.\nIt housed all the jets and planes I read about and watched in movies.\nF15 from top gun, the Lockheed SR-71 Blackbird, my favorite plane.\nA10 warthog etc etc.\nThe planes outside before you go inside is crazy too. I made a special trip to Utah and lucked out to see this place.\nGo see it see it now.\nAs a side note there was a gentleman there who I spoke with who told me some amazing war stories again worth the time to talk to the vets.", 
+        "companion": "family", 
+        "contributions": 19, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1566972000", 
+        "review_title": "Very impressive", 
+        "reviewer": "Murray M", 
+        "visit_time": "1564639200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_suitlaw_1554098400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This place doesn't charge a fee to enter, though I'm sure donations are appreciated. Walk through the museum to see the history of aircraft used in multiple military operations through the ages. You can easily spend an hour or more here. It's great for the family and even offers a learning center for a more interactive experience.", 
+        "companion": "family", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1565676000", 
+        "review_title": "See incredible aircraft from various time periods", 
+        "reviewer": "suitlaw", 
+        "visit_time": "1554098400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_joanw_1535781600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We took our grandson's to this museum of aircraft. It was interesting. People can move at their own pace and see a lot about aircraft and planes. There are several interactive displays and the gift shop was a hit with our grandson's. Good for kids four and older.", 
+        "companion": "family", 
+        "contributions": 117, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1565244000", 
+        "review_title": "Museum", 
+        "reviewer": "Joan W", 
+        "visit_time": "1535781600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_heumanntouch_1561960800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I have been to a few AFB museums and I have to say this is probably one of the best ones I have seen. The quantity and quality of aircraft here is very impressive. One can easily spend a few hours and probably not see everything or miss some of the side displays. They also have veterans here that are more than happy to show you around.", 
+        "companion": "family", 
+        "contributions": 1178, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1562565600", 
+        "review_title": "Excellent display", 
+        "reviewer": "heumanntouch", 
+        "visit_time": "1561960800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_jamesp._1530424800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "If you are into aircraft give this a look. It has some neat stuff there. Worth seeing at least once if in the area. I found my children when they were around 8 to 10 fasinated but teens unless it's third thing we're not into it.", 
+        "companion": "family", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1561528800", 
+        "review_title": "Good for younger kids and older ones too.", 
+        "reviewer": "James P.", 
+        "visit_time": "1530424800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_janet_1559368800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Brilliant collection of aircraft and wonderfully knowledgeable staff. This was our second visit, it's well worth spending time here.", 
+        "contributions": 14, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1561010400", 
+        "review_title": "Wonderful Museum", 
+        "reviewer": "Jane T", 
+        "visit_time": "1559368800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_jimb_1541052000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "If you are a military or plane buff this is the place for you! Very informative and the staff is very knowledgeable and willing to share their stories", 
+        "companion": "couples", 
+        "contributions": 5, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1561010400", 
+        "review_title": "Amazing displays", 
+        "reviewer": "Jim B", 
+        "visit_time": "1541052000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_johna_1556690400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Several large sections with all kinds of aircraft. Small exhibits too, such as aircraft engines. Displays inside, large aircraft are outside. You cannot enter outside aircraft. Clean, neat, and good stories on individual aircraft. I got there when it opened so no one was around except the docents who were very good at explaining about any subject I brought up in detail. The docents made this visit memorable. I will go back.", 
+        "companion": "solo", 
+        "contributions": 93, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1558332000", 
+        "review_title": "One of the best aerospace museums I have been too.", 
+        "reviewer": "John A", 
+        "visit_time": "1556690400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_riovistamomma_1556690400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is an incredible museum relating to flight - particularly military. It is huge - planes inside two huge buildings and planes outside. We wish we had had more time to spend there. There is so much to see and learn. Very accessible for all ages. And it is free.", 
+        "companion": "family", 
+        "contributions": 235, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1557727200", 
+        "review_title": "A Must See", 
+        "reviewer": "RioVistaMomma", 
+        "visit_time": "1556690400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_kenth_1527832800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Great place to take the kids and grand kids. They have aircraft from very early eras, world wars, and cold war era. Very enjoyable.", 
+        "companion": "friends", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1557727200", 
+        "review_title": "Airplane museum", 
+        "reviewer": "Kent H", 
+        "visit_time": "1527832800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_randallb_1551423600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Took the Kids and grandkids for a fun filled adventure day.This is an excellent museum with a great variety of aircraft and a pleasant, knowlegable staff.", 
+        "companion": "couples", 
+        "contributions": 18, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1557727200", 
+        "review_title": "Trip with family", 
+        "reviewer": "Randall B", 
+        "visit_time": "1551423600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_tristanr_1554098400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "With free admission the only sacrifice is time, and its time well spent. Lots of large fully intact planes right outside of the museum to see and walk around. Lots of planes inside to see, with a few helicopters to walk into. More planes then I could count, and lots of history about the military base surrounding the Vietnam, Korean, and Gulf wars. Lots of memorials for fallen soldiers and veterans. Great place to spend an afternoon or weekend visit. Will return again in the future, its just right off I-15 so very easy to navigate to from the freeway.", 
+        "companion": "couples", 
+        "contributions": 845, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1557727200", 
+        "review_title": "Amazing Experience", 
+        "reviewer": "Tristan R", 
+        "visit_time": "1554098400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_calvinp_1554098400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is an excellent museum for those that love to get up close to a large variety of military planes. Most planes are inside two large hanger type buildings which makes it suitable for inclement weather days. The larger planes are located outside on an easily walkable site. This is a good spot to take the kids, both young and old alike. There is no admission fees.", 
+        "companion": "couples", 
+        "contributions": 144, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1557727200", 
+        "review_title": "Great Museum!", 
+        "reviewer": "CalvinP", 
+        "visit_time": "1554098400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_delenego_1522562400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This place is amazing. The collection is very extensive from helicopters, small military aircraft to large aircraft. Most of the planes are indoors except for a few. They have been restored mostly by voluteers from Hill Airforce Base. The volunteers who are there are just as interesting if not more interesting than the planes themselves.", 
+        "companion": "family", 
+        "contributions": 3, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1551682800", 
+        "review_title": "Endless Collection in Exquisite Condition", 
+        "reviewer": "Delenego", 
+        "visit_time": "1522562400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_jcnelson_1519887600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "It's been a few years since I've been to the Hill Aerospace Museum, but it was pretty amazing. Got to see the blackbird stealth aircraft. Great!!", 
+        "companion": "family", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1550041200", 
+        "review_title": "If you love airplanes, you'll love this museum", 
+        "reviewer": "JCNelson", 
+        "visit_time": "1519887600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_acejr2_1549004400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a great museum and its free!! I take the grand kids often. I am a private pilot and enjoy seeing these significant historical aircraft.", 
+        "companion": "family", 
+        "contributions": 37, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1550041200", 
+        "review_title": "Historical Aircraft", 
+        "reviewer": "AceJr2", 
+        "visit_time": "1549004400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_lebleumr_1530424800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This museum is rich in military history. If you love planes, this is a perfect place to go! It is free but do accept donations!", 
+        "companion": "family", 
+        "contributions": 5, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1550041200", 
+        "review_title": "Awesome Military Museum", 
+        "reviewer": "lebleumr", 
+        "visit_time": "1530424800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_alexanderm(datravel)_1535781600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "It's a very intersting place with a lot of history. For me it was a fantastic day. But my wife was facinated too.\nThere was one unforgetable moment... we come in one of halls with the machines of the past - used in war ... and we talked with some veteran, who stand next to an large engine: Well, I remember - this one was allways a bit tricky to keep it running - but I made it... He explained us all the details and the \"real life hacks\" ... It was amazing!", 
+        "companion": "family", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1549954800", 
+        "review_title": "What a day....", 
+        "reviewer": "Alexander M (daTravel)", 
+        "visit_time": "1535781600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_ron26067_1546326000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "First and foremost this is a great military aircraft museum. There are planes from World War I, World War II, the Korean War, the Vietnam War, the Gulf War as well as a small jet used by President Lyndon Johnson painted in the Air Force One colors as well as a an F-16 flown by the Thunderbirds. Almost 100 airplanes are on display in two indoor galleries and an outdoor airpark. Parking is free and admission is free, however there are locked containers throughout the museum to make a donation. The hours of operation are Mon-Sat, 9:00 am - 4:30 pm. They close the gates promptly at 4:30 pm. The museum is staffed by volunteers, many ex-military, who are happy to share information and stories from their time in the service.\nUpon entering the museum you can pick up a map of the facility and stop into the small theater that has short films that, run on a continuous loop, on various aspects of the US Air Force. In the museum itself the planes have a narrative on the plane itself as well as some interesting notes. In addition to planes, there are helicopters, military vehicles, a replica of the first atomic bomb detonated, code name Trinity, as well as other decommissioned ordinance. There are also several areas with short videos set up to give a more in-depth experience to the visitor.\nSome of the more special planes of interest to me were the C-130 Military Transport Plane, the B-29 Superfortress from World War II and Korean War fame, the B-52 Stratofortress (which is still in use today), the B-1 Bomber (a supersonic heavy bomber), the SR-71 Blackbird a strategic reconnaissance aircraft used primarily for covert aerial reconnaissance and a MiG-21 Russian built supersonic interceptor also used by China, North Vietnam, India, Croatia and Romania.\nThere is a gift shop by the entrance selling books, tee shirts, jackets, snacks and other souvenir gifts. It takes a good 2 1/2 hours minimum to see everything and read about the history of the planes but if you just want to do a quick walk through you can do it in less time. You cannot touch the planes or sit inside them but you can take as many pictures as you want. If you have any interest in planes utilized by the US Air Force and want to get a good look at many of them, this is definitely a place to visit and as stated before , the price can't be beaten, even with a monetary donation.", 
+        "companion": "couples", 
+        "contributions": 346, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1548918000", 
+        "review_title": "Huge Facility and Free Admission", 
+        "reviewer": "Ron26067", 
+        "visit_time": "1546326000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_mch65_1533103200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a fun place to visit and see a large quantity of military aircraft, including SR-71 Blackbird. Kids of all ages will love spending hours touring the planes which are inside and outside.", 
+        "companion": "family", 
+        "contributions": 324, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1548918000", 
+        "review_title": "Great place to see military aircraft", 
+        "reviewer": "MCH65", 
+        "visit_time": "1533103200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_darrens_1522562400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This museum was beyond my expectations. They have the exhibits arranged by era, WWI, WWII, Korea, Vietnam, etc. There are obviously planes, but what I didn't expect was the jeeps, missiles, and bombs also included with plane exhibits. It's really cool to be able to see all of it up close and personal. Many of the planes are much larger than I expected. Among the exhibits, there are several eyewitness accounts and quotes, some with actual recordings of first-hand experiences.", 
+        "contributions": 20, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1548918000", 
+        "review_title": "Surprising variety", 
+        "reviewer": "Darren S", 
+        "visit_time": "1522562400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_loveeatingout2019_1543647600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Great planes and jets. It was worth the trip for the SR-71 Blackbird and to read about it. What an unbelievable jet for its era.", 
+        "companion": "friends", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1547449200", 
+        "review_title": "Great History!", 
+        "reviewer": "Loveeatingout2019", 
+        "visit_time": "1543647600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_davidj_1522562400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This museum would be worth paying admission to...but it's free. If you are into aviation and military aviation history, you'll love this place. There are many various aircraft that have been restored by the folks at the attached Air Force Base and a plethora of exhibits showing uniforms and flight suits and other aviation artifacts plus informative historical tidbits.", 
+        "companion": "solo", 
+        "contributions": 12, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1547449200", 
+        "review_title": "Great military aviation museum", 
+        "reviewer": "David J", 
+        "visit_time": "1522562400"
+      }, 
+      "_type": "_doc"
+    }
+  ], 
+  "time_to_travel": [
+    {
+      "_id": "hillaerospacemuseum_stevenp_1609484400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "An excellent air museum with a very large and well-maintained collection. They received an F117 in August 2020 and it is being restored on the museum floor in full view of visitors.", 
+        "contributions": 3812, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1610694000", 
+        "review_title": "F117 Stealth Fighter added to their collection!", 
+        "reviewer": "Steven P", 
+        "visit_time": "1609484400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_paisano76_1559368800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Well worth the drive if you are in the Salt Lake area. The outdoor planes are very well maintained for the environment they live in. The indoor exhibits were awesome. They are very well displayed and explained. The staff of volunteers are very friendly and helpful with any questions you may have. This is a very valuable asset to the area and they make it available for free..", 
+        "companion": "couples", 
+        "contributions": 169, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1561528800", 
+        "review_title": "Awesome place to visit", 
+        "reviewer": "Paisano76", 
+        "visit_time": "1559368800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_calvinp_1554098400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is an excellent museum for those that love to get up close to a large variety of military planes. Most planes are inside two large hanger type buildings which makes it suitable for inclement weather days. The larger planes are located outside on an easily walkable site. This is a good spot to take the kids, both young and old alike. There is no admission fees.", 
+        "companion": "couples", 
+        "contributions": 144, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1557727200", 
+        "review_title": "Great Museum!", 
+        "reviewer": "CalvinP", 
+        "visit_time": "1554098400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_marciac_1554098400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Excellent history and displays. A must see for aviation history buffs. We read a story about a pilot who saved his Crew and made it safely back to base after a crippling attack on his B-17. The Fightin Hebe. The article impressed us so much we researched the history later that evening.", 
+        "companion": "couples", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1555308000", 
+        "review_title": "Excellent", 
+        "reviewer": "Marcia C", 
+        "visit_time": "1554098400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_mikea_1525154400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Mini old planes, very well laid out most are all indoors, great to visit when weather is bad outside wont be disappointed if you like old airplanes", 
+        "companion": "family", 
+        "contributions": 8, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1554789600", 
+        "review_title": "A must for aviator buffs", 
+        "reviewer": "Mike A", 
+        "visit_time": "1525154400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_michaell_1527832800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Had a good leasure walk reading and interacting with many wonderful exhibits (planes & set up viewing areas). Recommend lightweight clothing during summer indoors get warm and outdoors in the sun a while. Wholesome for every age group - and free. Highly recommend taking a few dollars for\nDonations.", 
+        "companion": "family", 
+        "contributions": 30, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1551682800", 
+        "review_title": "Great place to investigate history", 
+        "reviewer": "Michael L", 
+        "visit_time": "1527832800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_aricf_1530424800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I live out of state, but when we come back to visit family, we often stop in here so my kids can run around and look at cool planes. It's fun to see, but this time I think the novelty is wearing off for my kids. It's hard to complain about a free museum though... In the summer, these hangars are SO HOT inside so be ready for that. We like the SR-71 blackbird, the helicopters, and the F-16 the most. There's a pretty nice gift shop to browse too. If you have little kids, I recommend a stroller.", 
+        "companion": "family", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1547449200", 
+        "review_title": "Cool airplanes!", 
+        "reviewer": "Aric F", 
+        "visit_time": "1530424800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_scottie552_1535781600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This morning we drove north on Fwy I-14 from Salt Lake City and left the freeway at Exit 338.\nOur destination was the Hill Aerospace Museum on the north side of Hill Air Force Base. The museum is quite spectacular and very informative. They have a lot of aircraft, about 72 all told. About 50 are located inside and the balance are located outside. The aircraft included fighters, bombers, helicopters and passenger/cargo aircraft and were either piston or jet engine powered. All the aircraft were military, no civilian passenger planes. Most of the aircraft has been serviced at Hill AFB. In addition to the aircraft, there are a number of drones and missiles.\nThere was NO charge to tour the Museum. There is a gift shop but no canteen (restaurant) on site.\nThere is so much to see that we went back a second day. This time, we walked by all the outside aircraft.\nIt was well worth the visit as our returning to complete our tour reflected.", 
+        "companion": "couples", 
+        "contributions": 285, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1539842400", 
+        "review_title": "A great and information aviation museum", 
+        "reviewer": "scottie552", 
+        "visit_time": "1535781600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_hardtodissatisfy_1535781600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I've been to the \"biggie\" the National Museum of the US Air Force at Wright Patterson AFB near Riverside, Ohio. The Hill museum is much smaller, but everything else is, including the NASA Museum at the Smithsonian in Washington, DC.\nThe Hill museum has an incredible collection, including a Lockheed SR-71 Blackbird. There are few \"antique\" planes, but the aircraft are a marvel to see.\nIf you go, plan on taking at least an hour. If you are a buff, plan on three or four hours and you may have enough time to inspect and appreciate the great aircraft.\nOne little display, often overlooked is in a small case to the west side of one building. The glass case contains a couple of photos of a man, Vern Moncur, along with his flight jacket. He was a member of the crew called \"Hell's Angels.\" No, not a motorcycle gang, but the crew of a B-17 bomber that served in the European theater.\nI have been to the museum a few times, but I never have enough time, so I end up returning, only to run out of time on each visit.\nIf you are an airplane or Air Force buff, no matter what you're looking for, you'll find something that will catch your eye and stop you in your tracks.\nThis is a great place to visit, to bring your children or grandchildren. It will inspire awe in them if you take the time to tell what these aircraft were, what they were used for, and how they changed the tide of history.", 
+        "companion": "couples", 
+        "contributions": 265, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1538546400", 
+        "review_title": "Excellent Aerospace Museum", 
+        "reviewer": "HardtoDissatisfy", 
+        "visit_time": "1535781600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_sockfour_1527832800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "My first visit was in 1989 when it was 100% outdoors. I returned in July 2014 when most of the aircraft had been moved indoors. It's like still a good bet. Most of the displays are from WW2 and later. Lately I can't get Travel Advisor from shoving this in my face even though it's technically too old for me to review.", 
+        "contributions": 197, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1538460000", 
+        "review_title": "Nice military aircraft museum.", 
+        "reviewer": "SockFour", 
+        "visit_time": "1527832800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_keithr_1522562400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I agree with the previous 4 and 5 Rating Reviews, so I will just add a few additional observations.\nThe museum is on an active Air Force base, so in addition to static displays you may get to watch F-35s fly around during your visit, which we did (I could do that all day....). Like several others mentioned I have visited many aviation museums, and Hill Aerospace Museum makes the cut for those I want to visit several more times. I need several days - a few hours are not enough really. Many docents are on-site and there a lot of activities for children.\nThe aircraft outside are not restored, but I must say that I like to see these planes in the 'normal' condition they were in when in service and / or recovered. This really gives a perspective on how challenging the conidtions were for the airman and ground crews, and an appreciation of the very hard work needed to restore the aircraft to museum quality.\nAnd admission is free, unlike most of the other better museums, but I still left a nice donation equal to the admission at other museums.", 
+        "companion": "solo", 
+        "contributions": 36, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1537941600", 
+        "review_title": "A Must See for Aviation & History Enthusiasts, and Families Too", 
+        "reviewer": "Keith R", 
+        "visit_time": "1522562400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_utahgirl53_1530424800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This place is a great place to visit! So much history! I would love to come again but it will have to be in the cooler weather. It was super hot outside and very warm inside.", 
+        "companion": "family", 
+        "contributions": 12, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1531807200", 
+        "review_title": "Amazing pieces of history!", 
+        "reviewer": "utahgirl53", 
+        "visit_time": "1530424800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_themuscovyduck_1525154400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "An impressive collection of USAF aircraft spanning a century of aviation. The museum is made up of two hangers and an outside area where the larger aircraft are displayed. All aircraft have accompanying information panels and the hangers tell the story of American air power from WWI up to the modern day. The aircraft are maintained in excellent condition and knowledgeable and enthusiastic museum volunteers are on hand to answer any questions you may have.\nEntry is free but Id strongly recommend you make a donation - this museum is a labour of love and well worth a visit!", 
+        "companion": "couples", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1526968800", 
+        "review_title": "Over a Century of US Air Power on Display", 
+        "reviewer": "TheMuscovyDuck", 
+        "visit_time": "1525154400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_rachely_1483254000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This museum may be visited any time of the year, with indoor and outdoor displays.\nIndoor displays include child-friendly activities. Outdoor displays allow visitors to get up close and personal with aircraft.", 
+        "companion": "family", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1513839600", 
+        "review_title": "Airplane freaks!", 
+        "reviewer": "Rachel Y", 
+        "visit_time": "1483254000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_sarahb_1496296800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We are regulars to the airplane museum. Not only do they have planes but they have fun workshops for kids during the summer!", 
+        "companion": "family", 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1497420000", 
+        "review_title": "Fun and educational", 
+        "reviewer": "Sarah B", 
+        "visit_time": "1496296800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_akwinelvr_1464760800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I stopped here in June 2016 on the way back from a cross country trip. This is an incredible air museum - and it's free! There are a lot of aircraft on display outdoors and some on the inside too. Very easy access from I-15. This is definitely worth a stop if you like aviation history and military aircraft", 
+        "companion": "couples", 
+        "contributions": 125, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1494136800", 
+        "review_title": "Great museum right off the Interstate", 
+        "reviewer": "Akwinelvr", 
+        "visit_time": "1464760800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_nanaof1boy3girls_1485932400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Took the monkeys AKA grand kids to visit this museum on Presidents day, though it was windy out they had a nice time looking at all the old military planes and reading about them. The admission is free but they do accept donations to help with the upkeep of the museum. They have a small gift shop where all the proceeds go back to the museum. In the summer they have a car show there and they open up and let you go inside some of the planes. Totally worth going.", 
+        "companion": "family", 
+        "contributions": 265, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1487746800", 
+        "review_title": "Fun with the grands", 
+        "reviewer": "nanaof1boy3girls", 
+        "visit_time": "1485932400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_samanthar_1483254000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The Aerospace Museum is great for kids, families or as a date night. It has a large variety of planes to look at and is ran really well. It's always a great experience.", 
+        "companion": "couples", 
+        "contributions": 23, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1486969200", 
+        "review_title": "Up up and away!", 
+        "reviewer": "Samantha R", 
+        "visit_time": "1483254000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_chrisc_1483254000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "3rd Best? yup the only ones to top this are the Smithsonian in DC and Wright Patterson AFB. My family loves planes and we have several generations of AF pilots in our family who have flown from Korea through the Gulf war. We stop at every plane museum or display we find. The facility is exceptional with everything very clean, the Aircraft are meticulously restored or maintained by expert volunteer technicians with plenty of folks around to answer any question you may have. This is worth the stop.", 
+        "contributions": 18, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1486969200", 
+        "review_title": "The 3rd best air museum ever!", 
+        "reviewer": "chris c", 
+        "visit_time": "1483254000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_cheryleh_1464760800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This museum has both indoor and outside exhibits. From the one era to another, Large and small. If you love planes or military history this is the place. Everything from planes, bombs and uniforms worn by our brave men and women of our Military forces. The museum is free but you can drop a donation in the donation box on your way in or out. There is also a small pioneer museum next door you can check out. Great group tour for school or summer programs.", 
+        "companion": "solo", 
+        "contributions": 261, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1485327600", 
+        "review_title": "Great Military Museum and its FREE!", 
+        "reviewer": "Cheryle H", 
+        "visit_time": "1464760800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_timw_1464760800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I like this museum because it has such the variety of aircraft through time. You can get up close and personal with most of the aircraft. They even have an SR71 Blackbird there. Also, there is an air show every June that features the Thunderbirds, among other performers. There is also a small gift shop to get a memento on your way out. I got my key chain that says \"remove before flight\".", 
+        "companion": "family", 
+        "contributions": 68, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1477807200", 
+        "review_title": "Great samples of avionic throughout military history.", 
+        "reviewer": "Tim W", 
+        "visit_time": "1464760800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_cherylm_1470031200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We were in town visiting family and since both are Air Force veterans they took us to this U.S. Air Force museum that is part of the United States Air Force Heritage Program. It was a wonderful place to spend a morning. The exhibits inside and the static displays outside are amazing and the volunteers who are usually veterans are ready to answer any questions you may have. It is so great seeing all the aircraft you might have only read about up close and walking through Air Force History in WWII, Korea, Vietnam and beyond. If you are in the Salt Lake City area I would highly recommend a visit to this museum.", 
+        "companion": "couples", 
+        "contributions": 163, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1470981600", 
+        "review_title": "Wonderufl, educational and outstanding exhibit at Hill Air Force Base", 
+        "reviewer": "Cheryl M", 
+        "visit_time": "1470031200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_richardh_1467352800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We enjoyed our visit to the Hill Aerospace Museum. I tend to live in the present, and I am glad that others have the forethought to preserve the Past. Air Force and Aerospace history unfolds in front of you as you tour this museum. Exterior displays give you insight to the size and scope of some air machines. The inside exhibits are wonderfully managed and preserved. There is No Admission fee, this is a free attraction. Closed on Sundays. The facility is air conditioned and it felt great on a hot July day. The gift store is bright and a great place to purchase souvenirs.", 
+        "companion": "couples", 
+        "contributions": 82, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1469944800", 
+        "review_title": "Preserving the Past", 
+        "reviewer": "Richard H", 
+        "visit_time": "1467352800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_mleng_1467352800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I visited this museum in the afternoon, after spending the morning at the Antelope Island State Park to visit the Great Salt Lake. I was staying at a hotel in downtown SLC. To go back to the city, I had to drive 15 minutes from the island to a town called Layton. From there, I would get on I-15 going south to SLC. Hill Museum is in Roy which is 5 minutes drive in the other direction on I-15 North.\nI am not an airplane buff, but I still can appreciate the value of this place with its sheer size and the vast number of airplanes -- there are 2 hangars each with about 20+ airplanes, then an outdoor park with about another 20+ airplanes. I also really enjoyed the notes on the placards that explained the historical background associated with each airplane and the details of the wars those planes flew in. I spent about 2 hours there..\nIn short, if you have a special interest in military history or airplanes, then it's a must visit place. If you are just an average person, then it's a nice add-on excursion if you go to Antelope Island to visit the Great Salt Lake, which by the way is a must-visit if you like nature and the outdoors.", 
+        "companion": "solo", 
+        "contributions": 39, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1469685600", 
+        "review_title": "awesome museum for airplane buffs, nice add-on visit to Antelope Island for others", 
+        "reviewer": "mleng", 
+        "visit_time": "1467352800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_petef_1462082400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Hill AFB Museum is a 'must visit' if you are in or passing through the area. Huge collection of aircraft, missiles, bombs and other exhibits, great for families and seniors alike. You probably need a minimum of a couple of hours for a very quick walk around, but enthusiasts could easily spend the whole day here. Highlights: SR-71 Blackbird & many other cold war jets, interesting exhibits and no entrance charge. Very close to the Freeway about 25 miles north of SLC. Bonus was the F-35's circling and landing at the active AFB adjacent. I visited mid-May on a Thursday morning and it was very quiet there.", 
+        "companion": "solo", 
+        "contributions": 122, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1463810400", 
+        "review_title": "Fantastic collection of aircraft", 
+        "reviewer": "Pete F", 
+        "visit_time": "1462082400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_st_matty_1433138400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Spent half a day going round here before flying back to Houston, wished I'd know about it before as I could have stayed longer. They have a fantastic collection here. Some inside and some out, so you can go in all weather conditions. Entrance is free as well. Staff were very friendly and were eager to provide help and information if required. Great place to go to.", 
+        "companion": "solo", 
+        "contributions": 4796, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1463464800", 
+        "review_title": "Great collection of planes", 
+        "reviewer": "St_Matty", 
+        "visit_time": "1433138400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_jillzy28_1459490400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a free experience. We've been there several times with our kids and always enjoy our visits. Most of the displays are inside, which is nice in the winter. It is a smaller museum than many we've been to, but still has a great collection. They also have lectures, summer classes for elementary school aged kids, veteran pilots to talk to, movies, a hands on \"play\" area, and a gift shop. Pre-school aged children we saw did not seem to be enjoying themselves, so this may not be the best experience for younger children.", 
+        "contributions": 109, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1459576800", 
+        "review_title": "Cheap Family Fun", 
+        "reviewer": "Jillzy28", 
+        "visit_time": "1459490400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_peterk_1456815600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I love this place as it is only 7 miles from my home and I consider myself an amateur military buff! The second you see this place, you know you are in for a treat! From the F4 Phantom to the Douglas C-124C Globemaster II which dominates the area and building, the planes represented here are well preserved and still bear original markings and have detailed plaques explaining their place in history.\nMy favorite plane is the B-29 Superfortress and its older sibling, the B-52. The B-29 on display here flew the weather reconnaissance mission over Japan in advance of the twin B-29s waiting over the Pacific ocean with their deadly and war-ending payloads of atomic bombs. Just to be able to touch this piece of American history is amazing. To know that this plane was so significant in ending the Pacific theatre is beyond phenomenal. And to some it may just be an old plane but I am a die hard fan,\nThere is a current F-16 Falcon on display along with Korean and Vietnam era flying machines in all their glory. Add in a few personal trainers and some ramjet missiles and other types of support equipment and you have a great place to visit.\nThe best part is that the outdoor exhibit is 100% FREE!! You can drive in, park, and start to wonder to your heart's content.\nThe museum is an equally attractive event and chronicles how the nearby Hill AFB got its name plus it house even more planes along with weapons and mechanics of the associated planes. Almost every inch of the building is alive with history from the aviation's infancy to its modern day power punch of firepower. Currently, it is sad to see that America has all of this firepower but has declined to use it more expeditiously with current events. But I am waxing poetic here folks.\nSit down and watch a film, read the walls and boards of those who have made history and just enjoy yourself.\nGreat place for kids because the outside displays are all open with no fences to bar you from getting up close. Just avoid hanging on the propellers.\nThe volunteer staff has done an amazing job of keeping the grounds clean and attractive and have tried their best to keep the pigeons at bay. Some of the planes are in need of some repair but they recently underwent painting and overhauls and are a joy to look at.\nBring a sun hat, plenty of water and a stroller for the younger ones and hang out in one of the best displays of American Aviation history in the region.\nAnd if you are lucky, you will catch glimpses of F-22 Raptors, F-16 Falcons, F-15 Eagles, C-130 transports and more taking off from Hill AFB right behind the museum. There are even the occasional A-10 Warthogs and even the rarer B-1 Lancer. The newest attraction at Hill are the new F-35 Lightings but they are rarer still but they are there and take to sky. My personal favorite is the F-22 Raptor.\nHave fun and enjoy yourself.", 
+        "companion": "family", 
+        "contributions": 60, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1458972000", 
+        "review_title": "American aviatin military history of past and present in one site!", 
+        "reviewer": "peter k", 
+        "visit_time": "1456815600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_mammameenah_1454310000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This museum is fantastic! Hangers full of full sized planes and flying machinery. My son was in absolute heaven here. Learned so much about the Air Force in Utah's history and even got inside some of the Jets! Interactive, educational and fun. If you go in the winter bring a sweater or coat, the hangers are basic metal buildings with heat but little insulation. Have fun!", 
+        "companion": "family", 
+        "contributions": 376, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1455951600", 
+        "review_title": "Big big museum!", 
+        "reviewer": "mammameenah", 
+        "visit_time": "1454310000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_advisormomma_1433138400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I'm not really airplane lover..but I took the children and grandpa (who was a pilot in his younger years) he thoroughly enjoyed it and the children enjoyed themselves. I even enjoyed myself. It's very hot in the summer to see the outside exhibits. wear sunscreen. Plan to spend an hour and a half (at least that is how long we spent and it was sufficient", 
+        "contributions": 508, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1453964400", 
+        "review_title": "great for plane lovers", 
+        "reviewer": "advisormomma", 
+        "visit_time": "1433138400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_patrickp476_1443679200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a must see, it is full of cool planes and tons of history, hey it even has a Blackbird! Awesome place for the kiddies, great place if the weather is bad too as most of it is indoors. Loved it!", 
+        "contributions": 188, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1453273200", 
+        "review_title": "This place is COOL!!", 
+        "reviewer": "patrickp476", 
+        "visit_time": "1443679200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_saratriptaker_1446357600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Our family of 5 visited the Hill Aerospace Museum, just outside of Hill AFB, on a chilly November Saturday morning. Admission is free. Many planes are on display outside the museum, to observe at your leisure. We signed the guest book and received a map of this huge place. Lots of war memorabilia inside, a movie that we didn't see (no posted show times), and many signs to inform. My husband and his father, a Navy veteran, especially enjoyed the fighter jet gallery. Our 5-, 3-, and 1-year-olds enjoyed the coloring station, manned by a volunteer who had a long chat with my father-in-law about the mission of the museum.\nOverall, it felt dated. I sense that we were not the target audience, as there were not hands-on activities for children nor docents, though I saw plenty of volunteers around. Volunteers did make us directly aware of a demonstration that would be happening (of a generator, maybe?), but we were on our way out the door. Men seemed to be enjoying the museum in groups.", 
+        "companion": "family", 
+        "contributions": 16, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1447138800", 
+        "review_title": "Meh. A family with littles may not be the target audience.", 
+        "reviewer": "saratriptaker", 
+        "visit_time": "1446357600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_robertc_1438408800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Great aerospace museum. The weather is getting to some of the outside displays, but the inside displays are pristine. Lot's of aircraft and other related exhibits. Great volunteers who will answer your questions about the exhibits. If you are traveling through the Roy area on I-15, plan a lunch stop here. You can eat under the wings of an exhibit and then see the rest of the museum. Plan for at least an hour. The best part of all is it's free. They will always welcome donations to keep funding the special programs they put on.", 
+        "companion": "solo", 
+        "contributions": 69, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1441087200", 
+        "review_title": "Better Than Average Museum", 
+        "reviewer": "Robert C", 
+        "visit_time": "1438408800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_kwt-traveler_1438408800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Definitely a must see for aviation enthusiasts. We have gone a few times and it never disappoints. Mostly outdoors so be mindful of the weather.", 
+        "companion": "couples", 
+        "contributions": 220, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1441000800", 
+        "review_title": "Great free museum", 
+        "reviewer": "KWT-traveler", 
+        "visit_time": "1438408800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_amyg54321_1438408800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "It's really cool to see these amazing jets up close. My 10 year old boy loved it. We really went for the kids area and it was closed. The weird thing is that sign outside of the children's area says it will be opening in spring of 2015. It's August. Disappointing. BUT there was a group of volunteers that helped the kids make paper helicopters and drop them off the balcony. That was a highlight for my kids. Great volunteers!", 
+        "contributions": 24, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1440482400", 
+        "review_title": "Why isn't the kids area open", 
+        "reviewer": "amyg54321", 
+        "visit_time": "1438408800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_tammyf_1435730400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "After a few hours of driving we were a bit tired so decided to stop to visit the museum. It was a great experience. There is an area outside with many planes, helicopters and fighters with explanations of what you are viewing. Inside there are 3 museums, 1 small and 2 rather large. Many, many planes, helicopters and fighter planes to see. Some you can see inside. Many types of bombs and missiles are on display. You can also see uniforms and many items related to the wars. There are veterans present to answer any questions you may have. We spent about 2 hours but more time could easily be spent. Multiple bathrooms and a gift shop. No fee to get into the museum.", 
+        "companion": "family", 
+        "contributions": 86, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1437631200", 
+        "review_title": "Well worth the stop!", 
+        "reviewer": "Tammy F", 
+        "visit_time": "1435730400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_kimstudiok_1406872800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a great Free Museum for anyone who is an air plane buff. Great variety, especially if you go with someone who knows about airplanes. I took my kids many years ago when they were small and my son especially liked it. If you are lucky and in Utah in July there may also be an Air Show, so much fun and excitement", 
+        "companion": "family", 
+        "contributions": 3, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1437026400", 
+        "review_title": "Always Reminds Me of my Dad", 
+        "reviewer": "kimstudiok", 
+        "visit_time": "1406872800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_viksterca_1433138400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "If you're the least bit interested in planes, the wars and/or Airforce, you must visit this museum. There is an outside plane exhibit (you can't go in the planes unfortunately) and two large hangers of inside exhibits (if the Utah summer is too warm for you).\nEntry to the museum is free, but there is a spot for donations and a little gift shop should you wish to buy a little souvenir.", 
+        "companion": "family", 
+        "contributions": 162, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1436853600", 
+        "review_title": "A must for aeroplane buffs", 
+        "reviewer": "viksterCa", 
+        "visit_time": "1433138400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_northbuddy_1430460000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Just outside the gate to Hill Air Force Base, the museum has a good collection of aircraft, primarily World War II through Vietnam. There are two galleries inside, and larger aircraft are stored outside. A few aircraft can't be seen in many other places, such as the SR-71 Blackbird. There are also replicas and casings of various bombs and rockets, to include a replica of the first atomic bomb.\nThere is also a lot of factual information on a number of people who played a significant part in either the development of aviation in Utah and/or Hill AFB, or were in the service from the state. Small alcoves showcases the POW experience in Vietnam and the WWII WASPs.\nThere are a number of audio-visual displays, explaining various aspects of Hill AFB, the Vietnam conflict, and aviation in general.\nAdmission if free, although a modest donation is suggested.\nThe only real shame is that they don't have indoor space for the aircraft currently displayed outside - the weather is giving the planes quite a beating.\nTouring the museum is well worth the time.", 
+        "companion": "couples", 
+        "contributions": 89, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1432101600", 
+        "review_title": "A Worthwhile Visit If You're In The Area", 
+        "reviewer": "northbuddy", 
+        "visit_time": "1430460000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "hillaerospacemuseum_charlesb_1425193200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I've driven past this museum countless times and visited it about 10 years ago. I was in the area and had the opportunity to visit once again and I don't know if it was really worth my time. The history and planes are amazing, but quite frankly there's not been a lot of change in the past 10 years. There's a marked difference in the planes from the interior displays to the exterior and while I understand the weather can be hard on them, it would be nice to see the larger outdoor exhibits better cared for.\nI enjoyed the visit and had a good time explaining the history surrounding the planes to my kids, but it may be some time before I return.", 
+        "companion": "family", 
+        "contributions": 71, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1427954400", 
+        "review_title": "A bit stale", 
+        "reviewer": "Charles B", 
+        "visit_time": "1425193200"
+      }, 
+      "_type": "_doc"
+    }
+  ], 
+  "transportation": [
+    {
+      "_id": "hillaerospacemuseum_djm-ut", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Not as extensive as the Air and Space Museum at Dulles airport in the DC area, but still lots of aeronautical history that has been maintained well. If you are a military airplane buff, it's worth visiting.", 
+        "contributions": 16, 
+        "place_name": "Hill Aerospace Museum", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g57090-d285790-Reviews-Hill_Aerospace_Museum-Ogden_Utah.html", 
+        "review_time": "1331964000", 
+        "review_title": "Fun to visit.", 
+        "reviewer": "DJM-UT"
+      }, 
+      "_type": "_doc"
+    }
+  ]
+}

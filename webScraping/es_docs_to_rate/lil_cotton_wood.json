@@ -1,0 +1,1492 @@
+{
+  "accessibility": [], 
+  "budget": [], 
+  "food": [
+    {
+      "_id": "littlecottonwoodcanyon_kurth_1491026400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "One of the top 5 scenic drives within 30min of a major airport in the US, maybe the best. Glaciated, U-shaped canyon. Mountains rise 7,000 ft over Salt Lake valley floor. Tram ride at Snowbird is amongst the most scenic trams/gondolas in US, and new restaurant at top is an outstanding place to have a bit to eat, soak up sun and chew on God's scenery. Caution that if snowy, won't see much and road requires chains and/or 4WD with significant fine if you get stuck b/c you drove up with bad equipment (rent the right car at airport if winter). NO dogs allowed including in car (another min. $125.00 fine). Numerous excellent hikes in the canyon, but none are truly easy. Pretty much all are at least intermediate if not hard. 2 ski resorts, Alta, Snowbird are world class skiing, although Alta isn't world class hotels/amenities (people ski here, so this isn't peopled by boards of monied folks.) Enjoy it!", 
+        "companion": "friends", 
+        "contributions": 324, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1491804000", 
+        "review_title": "A Top 5 Scenic Ride Next to Major City", 
+        "reviewer": "Kurt H", 
+        "visit_time": "1491026400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_jmhut_1433138400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "A short drive from most homes in Salt Lake City, Little Cottonwood is a year-round outdoor playground. World class skiing is a given. However, when the snow melts those same slopes and peaks offer top notch mountain biking, hiking, backpacking, etc. It's also at least ten degrees cooler than the valley in the summertime and offers clean air during the conversion months that make the valley so uncomfortable to be outdoors in. In late May the meadows explode in wild flowers. It is really a site to see and does the soul good after a long week in the concrete and asphalt of the city. Not only free to the public but accessible via public transportation. Food and lodging available at Snowbird, which stays open year round, as does its tram.", 
+        "companion": "family", 
+        "contributions": 191, 
+        "likes": "3", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1443420000", 
+        "review_title": "Incredible resource", 
+        "reviewer": "JMHUT", 
+        "visit_time": "1433138400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_scribblin_1435730400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "After living here for about six months and motorcycle riding various canyons, I have to say that Little Cottonwood is my favorite. Without taking anything away from Big Cottonwood, Emigration, and other local canyons, the views in Little Cottonwood are the best, in my opinion. Even if you don't ski, grab lunch at Alta Lodge -- lunch prices are comparable to an Applebee's or Chili's -- and just enjoy the scenery. In warm weather, drive past the gate at Alta and up the dirt road for even more spectacular views (and great hiking). Follow the road to the parking lot for the camping area, and hike up to the lake. Beautiful scenery and a pretty terrific motorcycle road make Little Cottonwood my top pick for local canyons!", 
+        "contributions": 388, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1438149600", 
+        "review_title": "Best Views Around", 
+        "reviewer": "scribblin", 
+        "visit_time": "1435730400"
+      }, 
+      "_type": "_doc"
+    }
+  ], 
+  "general_info": [
+    {
+      "_id": "littlecottonwoodcanyon_terrid_1564639200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Yes, this really is a fun drive. Hopefully no one will be pushing you...sometimes travelers to and from Snowbird are in a hurry. Take your time, pull off when you can. A wonderful place!", 
+        "contributions": 348, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1594274400", 
+        "review_title": "Take your time, if you can", 
+        "reviewer": "Terri D", 
+        "visit_time": "1564639200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_camaronz_1569909600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a great drive if you wish to spend a couple of hours away from the city in the Fall. The colors are so nice and the road is easy, i guess it would be different once the snow comes but would still like to see it then too.", 
+        "contributions": 279, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1571032800", 
+        "review_title": "Very easy drive from the valley, great for an afternoon drive", 
+        "reviewer": "camaronz", 
+        "visit_time": "1569909600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_michaelb_1569909600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The fall colors are stellar. River is beautiful. Lots to do at Snowbird resort. If passing through Salt Lake take an hour and drive up canyon.You'll be glad you did.", 
+        "companion": "family", 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1570600800", 
+        "review_title": "Beautiful!", 
+        "reviewer": "Michael B", 
+        "visit_time": "1569909600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_jeffreyo_1567317600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Just out for a drive while here on business and traveled through Little Copper Canyon. Went all the way to Alta Ski Lodge, pulled over and walked around. Spoke to an officer for about 20 minutes and got the low down on happenings around the area.\nThe drive is so beautiful and worth going to see. I was told there are some easy hikes that you can do and really get a great view of the entire canyon. My picture was on my way back down the canyon, so beautiful!", 
+        "companion": "solo", 
+        "contributions": 177, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1568095200", 
+        "review_title": "So Beautiful and fun drive", 
+        "reviewer": "Jeffrey O", 
+        "visit_time": "1567317600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_sherryb_1556690400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Had a wonderful day driving up and down this canyon. Enjoyed the amazing drive and seeing the snow. People were still skiing in the middle of May! This is a beautiful drive any time of the year, so take time to enjoy it.", 
+        "companion": "couples", 
+        "contributions": 1091, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1561701600", 
+        "review_title": "Another Amazing Drive", 
+        "reviewer": "Sherry B", 
+        "visit_time": "1556690400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_chuck_1551423600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "One of the most beautiful places I've ever been. Went to ski but would love to go back during the other seasons.", 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1559628000", 
+        "review_title": "beautiful", 
+        "reviewer": "Chuck", 
+        "visit_time": "1551423600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_shannas_1551423600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The drive through the canyon is beautiful. Whether you ski or not, at least visit the area and see it. It is spectacular!", 
+        "contributions": 235, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1552975200", 
+        "review_title": "So Pretty", 
+        "reviewer": "Shanna S", 
+        "visit_time": "1551423600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_differentname_1546326000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "It is also a playground for all those days in between. Most people don't know that there is fabulous hiking easily accessible from almost any starting point, with all degrees of difficulty.\nHave fun!", 
+        "companion": "friends", 
+        "contributions": 2597, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1551769200", 
+        "review_title": "Summer and winter playground...", 
+        "reviewer": "differentname", 
+        "visit_time": "1546326000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_jennscents_1530424800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We stumbled upon this beautiful drive, that led us to some incredible scenery and photo ops, with off-the-beaten path hiking trails. We stopped off on the side of the road at a little parking area. We could hear water flowing so we hiked the trail until we found a gorgeous creek with flowing water. We sat there taking in the fresh air, beautiful weather and enjoyed a snack. Traffic was a little congested heading to Alta, so we turned around and headed back. Still worth the trip.", 
+        "companion": "business", 
+        "contributions": 59, 
+        "likes": "2", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1532584800", 
+        "review_title": "Beautiful drive, incredible scenery with off-the-beaten path hiking trails", 
+        "reviewer": "JennScents", 
+        "visit_time": "1530424800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_dragonflytw65_1514790000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We had spent quite a lot of time in Big Cottonwood Canyon and our drive to Snowbird was our first time in Little Cottonwood Canyon. It was very different and just as beautiful. The drive alone is a must do for nature lovers visiting Salt Lake City and even non skiers will appreciate the atmosphere, restaurants, shops and views from Snowbird in the winter.", 
+        "companion": "couples", 
+        "contributions": 2926, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1517814000", 
+        "review_title": "Beautiful!", 
+        "reviewer": "dragonflytw65", 
+        "visit_time": "1514790000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_holeysneakers_1506837600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Little Cottonwood Canyon is one of the three main routes up to Salt Lake City's famous Ski areas. All three routes offer spectacular views. Little Cottonwood Canyon is an eight-mile drive that ends in the old mining town/now ski resort town of Alta. If the steep granite walls didn't clue you in, the heavily bunkered resort buildings and periodic gates and avalanche warning signs would tell you that this drive is not one to be taken lightly in the winter. But in the fall, the foliage is absolutely gorgeous, especially in contrast to the granite. If you want to get out and walk, there is Temple Quarry Trail at the mouth of the canyon. Just keep in mind that there are no dogs allowed anywhere in the canyon (to protect the watershed). Alta itself is a bit of a disappointment as a town, as there is really nothing there except the resort. But as a little getaway to nature that is just minutes away from Salt Lake City, it is definitely worth a visit.", 
+        "companion": "family", 
+        "contributions": 224, 
+        "likes": "2", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1507788000", 
+        "review_title": "Gorgeous Scenic Drive Just Outside the City", 
+        "reviewer": "HoleySneakers", 
+        "visit_time": "1506837600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_pbnc63_1501567200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Worth the short drive from Salt Lake City. Beautiful views. Follow the road all the way up past Alta. Alpine flowers in bloom. Peaceful and quiet.", 
+        "companion": "friends", 
+        "contributions": 185, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1503727200", 
+        "review_title": "Fall visit", 
+        "reviewer": "pbnc63", 
+        "visit_time": "1501567200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_kb_222014_1498888800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "On our last trip to Salt Lake, my wife and I had about an hour or so of free time, so we decided to take a drive up the canyon. The road ends at Alta ski resort, so you'll need to turn around and go back to where you came from. Other canyons we have seen actually connect to roads on the other side - such as the drive up to Park City, for example. However, this probably means there are fewer cars along your way.\nThe scenery is breathtakingly beautiful. I'm sure it would be pretty dangerous during the winter months with snow and ice everywhere, but if you are here during the summer months, you have plenty of wonderful scenery to enjoy. Along the way, there are several places to stop and take pictures or just enjoy the view.\nThe drive up to the top of the road does not take very long - it's only about 9 miles or so from the base of the canyon to Alta. But it also means you can see the entire canyon quickly.\nIf you love the outdoors, you would love to make this drive.", 
+        "companion": "couples", 
+        "contributions": 56, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1501394400", 
+        "review_title": "Beautiful drive. Very much worth your time if you love the outdoors.", 
+        "reviewer": "KB_222014", 
+        "visit_time": "1498888800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_snorkelingfan46_1498888800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Visiting family in Salt Lake City, our daughter took us up to Albion Basin in Little Cottonwood Canyon to see the wild flowers. Although mid-July may be a couple weeks before peak season, the hike up the path to the mountain lake was quite spectacular. It's the perfect place to escape the 90+ degree temps down in the City with a breezy mid-70's temperature to enjoy while climbing the trail. There is no shortage of wildflowers in all directions, as well as leftover snow pack in many places. The canyon in the winter is prime skiing area, so there are chairlift towers around, but not enough to diminish the enjoyment of the scenery. There are bathroom facilities by the main parking lot at the trail head. Parking can be a bit hard to find. The volunteers on the roadway will encourage you to park well below the trail and take a tram up to the final parking area, but we took the risk and were rewarded with a newly vacated spot. There are also a few turn-outs along the drive up that offer spaces for 3-5 cars, so it is possible to park short of the trail head and hike the road a ways. We noticed quite a number of couple with very young children in backpacks because the climb is only moderately demanding. Note, that the elevation in the canyon is over 9,000 above sea level, so if you are from a much lower altitude, you may possibly get a bit more winded than you might expect.", 
+        "companion": "couples", 
+        "contributions": 226, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1500098400", 
+        "review_title": "Spectacular!", 
+        "reviewer": "snorkelingfan46", 
+        "visit_time": "1498888800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_mitchm_1496296800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "An amazing scenic drive right outside of SLC! Just as beautiful as Big Cottonwood Canyon, but less crowded. The road also ends at Alta and you must go back in the same direction you came, unlike BCC.", 
+        "companion": "business", 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1499234400", 
+        "review_title": "Beautiful drive!", 
+        "reviewer": "Mitch M", 
+        "visit_time": "1496296800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_heatherr_1464760800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I think this is what I miss most about living in Utah. I used to live in Sandy, which is in the valley below the drive up the canyon. It's very easy to get there and it's not as crowded as Park City and some of the other scenic drives in Utah.\nIt's definitely my favorite drive in the fall. When the leaves are changing, it's an amazing drive. It's also got some nice hiking trails for the summer months. It's a nice break in the summer from the heat in the valley. The trees always smell amazing and there's usually a nice breeze.\nI love this canyon and wish I could go back more often.", 
+        "companion": "family", 
+        "contributions": 667, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1492063200", 
+        "review_title": "Beautiful drive", 
+        "reviewer": "Heather R", 
+        "visit_time": "1464760800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_kurth_1491026400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "One of the top 5 scenic drives within 30min of a major airport in the US, maybe the best. Glaciated, U-shaped canyon. Mountains rise 7,000 ft over Salt Lake valley floor. Tram ride at Snowbird is amongst the most scenic trams/gondolas in US, and new restaurant at top is an outstanding place to have a bit to eat, soak up sun and chew on God's scenery. Caution that if snowy, won't see much and road requires chains and/or 4WD with significant fine if you get stuck b/c you drove up with bad equipment (rent the right car at airport if winter). NO dogs allowed including in car (another min. $125.00 fine). Numerous excellent hikes in the canyon, but none are truly easy. Pretty much all are at least intermediate if not hard. 2 ski resorts, Alta, Snowbird are world class skiing, although Alta isn't world class hotels/amenities (people ski here, so this isn't peopled by boards of monied folks.) Enjoy it!", 
+        "companion": "friends", 
+        "contributions": 324, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1491804000", 
+        "review_title": "A Top 5 Scenic Ride Next to Major City", 
+        "reviewer": "Kurt H", 
+        "visit_time": "1491026400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_sherryb_1480575600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Drove up this canyon 3 days before Christmas and enjoyed seeing all the snow and beautiful scenery. Stopped at Alta Ski area just to enjoy the view. Enjoyed watching the people ski. You should take time to drive up this canyon. It is worth your time, it takes about 30 min. to reach the Alta area once in the canyon.", 
+        "companion": "couples", 
+        "contributions": 1091, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1483340400", 
+        "review_title": "Wonderful Snowy Drive", 
+        "reviewer": "Sherry B", 
+        "visit_time": "1480575600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_tibet71_1477980000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Little Cottonwood Canyon is short drive and it dead end about 8 miles from starting to finish. It is a beautiful drive but if you want a good choice of hiking I think Big Cottonwood Canyon is better. Little Cottonwood Canyon is the way to Snowbird where you can take the tram.\nBoth Canyon is easy access and the drive is easy but be careful and slow down on your way down.", 
+        "companion": "couples", 
+        "contributions": 2777, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1479106800", 
+        "review_title": "Beautiful drive", 
+        "reviewer": "tibet71", 
+        "visit_time": "1477980000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_ruchi2787_1443679200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Drove this canyon with mu husband countless number of times and each time it's been a unique, out of the world experience! Ski resorts in winter and alpine lakes and hike in summer, what could get better than this! Especially when the drive to the canyon from downtown SLC is not more than 25-30 mins. Never lived in a city so beautiful and with so much charisma surrounded!", 
+        "companion": "couples", 
+        "contributions": 8, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1473919200", 
+        "review_title": "Mesmerizing Canyon, can never get enough of it!", 
+        "reviewer": "Ruchi2787", 
+        "visit_time": "1443679200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_flymetoaustralia_1470031200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "A steep canyon on the SE edge of the city, take the 215 beltline to the 6200. Becomes wasatch avenue. pass entrance to big cottonwood canyon, head up canyon towards alta. A couple nice campgrounds up there- and a huge ski resort complex. In Alta, free info is handed out for area hikes.\nWe drove past the resorts, up the steep road, past where the road becomes gravel. The hike we chose took us to an alpine lake 1 mile away, then we struggled up further to the top of a mountain peak. Saw 4 moose, marmots, great views...totally peaceful and cool.", 
+        "contributions": 13, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1471327200", 
+        "review_title": "sweet alpine hiking not far from your car", 
+        "reviewer": "flymetoaustralia", 
+        "visit_time": "1470031200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_thesuze12_1464760800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We had toured Big Cottonwood and decided to drive up Little Cottonwood. The views are beautiful and it was a treat to see the ski resorts and homes and the top of the mountain. If you only have time for one I recommend Big Cottonwood. Both are just glorious in June.", 
+        "companion": "business", 
+        "contributions": 331, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1466316000", 
+        "review_title": "Beautiful Views", 
+        "reviewer": "TheSuze12", 
+        "visit_time": "1464760800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_sherryb_1462082400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a wonderful drive any time but this past May there were lots of waterfalls because of snow melt. Enjoyed sitting in our car at the end watching some people sled and some marmots running on the snow. Alta ski resort was closed, but the views are still wonderful.", 
+        "companion": "couples", 
+        "contributions": 1091, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1465020000", 
+        "review_title": "Wonderful canyon to drive", 
+        "reviewer": "Sherry B", 
+        "visit_time": "1462082400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_jdms33_1462082400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We drove through both Big Cottonwood and Little Cottonwood Canyon today. Little Cottonwood Canyon is a beautiful ride and the geology is so much different that Big Cottonwood. Not as many trail heads but equally as beautiful. When we drove back down the canyon road the few through the opening of the canyon was breathtaking.", 
+        "contributions": 532, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1462168800", 
+        "review_title": "Wonderful ride and scenery.", 
+        "reviewer": "jdms33", 
+        "visit_time": "1462082400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_georgiagirl59_1454310000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Little Cottonwood Canyon is the home to ski resorts Alta and Snowbird. The views are fabulous and this is a wonderful place for extreme out-doorish people. Many people hike up to the top of the peaks and ski/board down outside of the resorts. Hiking is another activity that is widely done in the canyon also. There are several condo's and house for rent and the Alta shuttle makes it easy to get to the slopes and back home with little trouble. We stayed at HellsGate Condo unit \"J\" and the views were fabulous. The condo was nice and well equipped. I would highly recommend Little Cottonwood Canyon to experience Alta/Snowbird and the views!", 
+        "contributions": 86, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1455692400", 
+        "review_title": "Breathtaking Canyon", 
+        "reviewer": "GeorgiaGirl59", 
+        "visit_time": "1454310000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_carola_1441087200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This canyon is only minutes away from the south end of the Salt Lake valley. There are many hiking trails of varying difficulties, 2 ski resorts ( Snowbird & Alta), camping and picnic areas, a creek and the town of Alta at the top of the canyon. If you have a 4 x4, you can keep going at the top and take the dirt road over Guardsman Pass and end up in the Heber Valley. We love to cross country ski along the Quarry trail during the winter. A beautiful glacier-made canyon!", 
+        "contributions": 131, 
+        "likes": "2", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1445925600", 
+        "review_title": "We are spoiled to have this beautiful canyon so close by!", 
+        "reviewer": "Carol A", 
+        "visit_time": "1441087200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_jmhut_1433138400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "A short drive from most homes in Salt Lake City, Little Cottonwood is a year-round outdoor playground. World class skiing is a given. However, when the snow melts those same slopes and peaks offer top notch mountain biking, hiking, backpacking, etc. It's also at least ten degrees cooler than the valley in the summertime and offers clean air during the conversion months that make the valley so uncomfortable to be outdoors in. In late May the meadows explode in wild flowers. It is really a site to see and does the soul good after a long week in the concrete and asphalt of the city. Not only free to the public but accessible via public transportation. Food and lodging available at Snowbird, which stays open year round, as does its tram.", 
+        "companion": "family", 
+        "contributions": 191, 
+        "likes": "3", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1443420000", 
+        "review_title": "Incredible resource", 
+        "reviewer": "JMHUT", 
+        "visit_time": "1433138400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_kenjean2014_1438408800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "If you are ever in this canyon in August you can find the best wildflowers if you hike through Albion Basin up to Cecret Lake. Easy hike and great news.", 
+        "companion": "couples", 
+        "contributions": 130, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1443333600", 
+        "review_title": "Best wildflowers ever", 
+        "reviewer": "KenJean2014", 
+        "visit_time": "1438408800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_jdcoach_1435730400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Two world class ski resorts, half dozen decent restaurants, million dollar view. The Mirror lake hike is short and sweet, you can take your young children for a half day hike, enjoying the outdoors with your family", 
+        "contributions": 189, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1443247200", 
+        "review_title": "take the mirror lake hike", 
+        "reviewer": "jdcoach", 
+        "visit_time": "1435730400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_sheekar_1438408800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "beautiful sight, a wonderful place for hiking, biking, and picnics with family. Take in the fresh air and gorgeous views, brings you a whole lot closer to nature and excellent for meditation. Utah has some of the most scenic canyons just 15 minutes from the city that cater to a variety of sport enthusiasts. my favorite is walking/hiking on the many wonderful paths and collecting wild flower seeds. Make sure to bring water and maybe a picnic baskets and plan a romantic day in the canyon.", 
+        "contributions": 341, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1443160800", 
+        "review_title": "nature art its best", 
+        "reviewer": "Sheekar", 
+        "visit_time": "1438408800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_johnd70_1435730400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The parking is very limited and the road is not paved but the wildflowers are spectacular.The area is called Albion Basin and it is the starting point for wonderful high altitude hikes and alpine scenery. Come prepared to deal with high altitude, above 9000 feet, and tough terrain. The basin wildflowers are worth the trip by themselves. Bring a good camera and spend some time.", 
+        "companion": "couples", 
+        "contributions": 2, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1439445600", 
+        "review_title": "Premier wildflowers above Alta Lodge, late July", 
+        "reviewer": "JohnD70", 
+        "visit_time": "1435730400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_melichr_1438408800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The views from this canyon are beautiful. There are multiple hiking spots with varying levels of difficulty, some great easy hikes for kids. A fun place to climb on a road bike or catch trails with a mountain bike.", 
+        "companion": "family", 
+        "contributions": 104, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1439445600", 
+        "review_title": "Great canyon for hiking, snow sports, and views", 
+        "reviewer": "MeliChr", 
+        "visit_time": "1438408800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_maitreyeemayhem_1427868000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I live in Sandy so it's always been a great way to get out of the city for a bit for me. I can literally drive 20 min and be out in the middle of no where. There are a lot of hiking tails and off roading places you can go too. The view is just gorgeous, you will not want to go anywhere else. There are plenty of camping spots that are actual camp grounds or just random spots you can go to camp.", 
+        "companion": "couples", 
+        "contributions": 149, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1438754400", 
+        "review_title": "Near my house, great for a quick get away.", 
+        "reviewer": "MaitreyeeMayhem", 
+        "visit_time": "1427868000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_roonealredge_1427868000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Just spectacular! Make sure that you drive safely and do not speed up or down the winding canyon road. One, you'll miss the beautiful scenery, animals and the like, and two, it is dangerous. Safe if you obey traffic laws! You need to go all the way to the end past the Snowbird and Alta Resorts (not just for winter skiing). Many nice hikes and trails. Spring time has the flowers blooming. Must see anytime of the year. Very high recommendation!", 
+        "contributions": 78, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1438581600", 
+        "review_title": "Great drive and beautiful vistas!", 
+        "reviewer": "RooneAlredge", 
+        "visit_time": "1427868000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_scribblin_1435730400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "After living here for about six months and motorcycle riding various canyons, I have to say that Little Cottonwood is my favorite. Without taking anything away from Big Cottonwood, Emigration, and other local canyons, the views in Little Cottonwood are the best, in my opinion. Even if you don't ski, grab lunch at Alta Lodge -- lunch prices are comparable to an Applebee's or Chili's -- and just enjoy the scenery. In warm weather, drive past the gate at Alta and up the dirt road for even more spectacular views (and great hiking). Follow the road to the parking lot for the camping area, and hike up to the lake. Beautiful scenery and a pretty terrific motorcycle road make Little Cottonwood my top pick for local canyons!", 
+        "contributions": 388, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1438149600", 
+        "review_title": "Best Views Around", 
+        "reviewer": "scribblin", 
+        "visit_time": "1435730400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_osf35_1435730400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We headed up the canyon to do a bit of hiking and were happy to find out that the wildflowers were in bloom. There's a meadow wildflower hiking trail to follow--and it was great. It's moderately difficult--we're not claiming to be in great shape, but the elevation and a few of the steep inclines, made us stop to catch our breath (but there were elderly folks and young kids stomping up and down this hike--so you know, i guess we are out of shape). The views are great, the wildflowers were gorgeous. We got to catch a deer grazing and of course all kinds of little critters and birds. Great views down the valley. Our time was short, so we didn't get a chance to spend more time here, they were running lifts up to one of the peaks and there are some restaurants open--but we needed to spend only about an hour of our time. It was totally worth it, though and highly recommended.", 
+        "companion": "couples", 
+        "contributions": 113, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1437804000", 
+        "review_title": "Amazingly Beautiful", 
+        "reviewer": "OSF35", 
+        "visit_time": "1435730400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_susana_1406872800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "People define beauty differently, but it's difficult to beat the beauty of Little Cottonwood Canyon. From the city limits of Sandy to the end of the trail above the ski resorts, the winding road takes you from pines and aspens, through fir and spruce, and up above the tree line. If you're there for the bloom of the spring wildflowers, the views are truly breathtaking.\nThe fauna can be spectacular as well. The canyon is home to many species of birds and fish as well as squirrels, pine martin, deer, and other Rocky Mountain creatures. This is also the one place where I can almost always spot a moose.\nTake a day or just a two-hour drive. Take a picnic or just a bottle of water. Take your family or just a friend, but definitely take advantage of this spectacular natural wonder.", 
+        "companion": "couples", 
+        "contributions": 312, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1436680800", 
+        "review_title": "Nature at its finest", 
+        "reviewer": "Susan A", 
+        "visit_time": "1406872800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_evaskates_1427868000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "A friend and I decided to go on a little hike towards Alta. We picked a perfect day. It was sunny, warm, however lots of snow was still on the ground (there was an unexpected snow storm two days before). The paths were freshly groomed by snow grooming machines. The hike was very pleasant, and easy. Most ski lifts were opened, few skiers, a couple of show-shoers.\nAfter climbing to one of the lifts, we sat on rocks to eat snacks and enjoy breath taking views. One complain - as a first time visitor - no trail maps, the official trail site does not specify which trails are not accessible until summer. We wanted actually to go to Cecret Lake, but learned from a local person, that it is truly a summer hike. However we both had a good time on whatever trail that was", 
+        "companion": "solo", 
+        "contributions": 32, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1429596000", 
+        "review_title": "breathtaking views", 
+        "reviewer": "EvaSkates", 
+        "visit_time": "1427868000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_ruup4adventure2_1409551200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This canyon makes for a scenic drive year-round, but it's especially splendid in the fall when the leaves on the quaking aspen trees turn color. It's a steep canyon and smaller engine cars may struggle at times. Picnic areas are unfortunately extremely limited, but hiking trails are plentiful.", 
+        "companion": "friends", 
+        "contributions": 210, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1428818400", 
+        "review_title": "Lovely drive in the autumn", 
+        "reviewer": "ruup4adventure2", 
+        "visit_time": "1409551200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_mikef_1412143200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I always love to ski at Snowbird and Alta. They are, hands down the best resorts of all others around here. They have the best snow and best challenge of all of them, and are not as expensive as the Park City resorts.", 
+        "companion": "solo", 
+        "contributions": 17, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1415170800", 
+        "review_title": "Skiing is superb", 
+        "reviewer": "Mike F", 
+        "visit_time": "1412143200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_hannahbears_mom_1412143200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I'm so glad we took this scenic drive! The views were breathtaking! We went during October, specifically to see fall foliage and we were NOT disappointed! I've never seen so many vibrant colors at one time (outside of a crayon box)! We went the entire length through, and spent a good hour stopping to take pictures of the views and family. I can see how it would get insane during the wintertime, but on a Thursday morning.....the drive was perfect!", 
+        "companion": "family", 
+        "contributions": 561, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1413525600", 
+        "review_title": "Absolutely breathtaking!", 
+        "reviewer": "Hannahbears_mom", 
+        "visit_time": "1412143200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_benjaminr_1404194400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This canyon, uniquely carved out of granite mountains by ancient glaciers, is one of the most beautiful places on earth. A drive up to the top reveals glorious alpine vistas. Climbing up side canyons introduces you to White Pine, or Red Pine Lakes, Cecret Lake, Albion Basin, and the world class ski resorts of Alta and Snowbird. The clean, simple beauty of this canyon is unique not only to the Wasatch Mountains, but is unusually scenic compared to any other place I have visited. A portion of my heart resides here.", 
+        "companion": "solo", 
+        "contributions": 656, 
+        "likes": "3", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1406613600", 
+        "review_title": "A most beautiful glacial landscape", 
+        "reviewer": "Benjamin R", 
+        "visit_time": "1404194400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_vjgonzo3_1404194400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "My wife and I recently biked and hiked a couple of the many splendid trails among amazing views of the granite cliffs set against the Wasatch-Cache National Forest.\nLocated 15 miles south of Salt Lake City it is easily accessible via signs after taking the 6200 SOUTH exit of I 215.\nThe \"Little\" has so much to offer visitors in the summer including wildlife viewing, cruising the 2+ mile road along a roaring river and, camping at one of the two camp grounds - Tanners Flat & Albion Basin. Climbing is also popular.\nLocals and visitors alike benefit from this beautiful canyon whether or not they leave their car as the sounds, smells, and sights will bring smiles to all.", 
+        "companion": "couples", 
+        "contributions": 39, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1406354400", 
+        "review_title": "Summer fun in the Wasatch at the \"Little\"!", 
+        "reviewer": "vjgonzo3", 
+        "visit_time": "1404194400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_stevenw_1404194400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a nice drive to take during any season. Plenty of outdoor activities along the way, or just enjoy the drive through a beautiful area. The mountains are spectacular here. Take time to explore some of the areas along the way.There are some great hikes and a few lakes to explore, as well.", 
+        "companion": "couples", 
+        "contributions": 1229, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1404712800", 
+        "review_title": "A nice drive during any time of the year", 
+        "reviewer": "Steven W", 
+        "visit_time": "1404194400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_somepersonhere", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The mountains are beautiful. Amazing snow with the lightest powder ever. The views are amazing from the summit's and the bases. The sunsets are breathtaking, so be sure to stick around long enough to enjoy them.", 
+        "contributions": 136, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1393657200", 
+        "review_title": "Amazing views", 
+        "reviewer": "SomePersonHere"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_thegoatqueenstown_1388559600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "An amazing week ski Utah's finest POW at both Alta and Snowbird, I can't imagine anywhere could be better!", 
+        "companion": "family", 
+        "contributions": 1, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1389769200", 
+        "review_title": "Ripping Fresh POW at Alta Snowbird", 
+        "reviewer": "TheGoatQueenstown", 
+        "visit_time": "1388559600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_shake801_1367388000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Every visitor to Salt Lake should ride the Snowbird Tram. The experience and views are not to be missed. In the summer, amazing wildflowers color the fields of Albion Basin. Great hikes up White/Red Pine and also Albion Basin. Amazing waterfalls in spring and fields of gold aspen groves in fall. You may encounter moose, mountain goats, deer, coyote, and other wildlife if you look hard and hike a little. And of course, winter boasts the iconic Alta powder and Snowbird terrain that make this a destination for real deal skiers.", 
+        "companion": "solo", 
+        "contributions": 6393, 
+        "likes": "3", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1368943200", 
+        "review_title": "Most spectacular and dramatic canyon in SLC proper", 
+        "reviewer": "shake801", 
+        "visit_time": "1367388000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_utahns__1338530400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Love this canyon. Bike, hike, fish, camp - whatever. you can do it all. Except swim or let fido off leash. Love utah, take care of it. kiss it. love it.", 
+        "companion": "friends", 
+        "contributions": 52, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1341727200", 
+        "review_title": "GORGEOUS", 
+        "reviewer": "Utahns_", 
+        "visit_time": "1338530400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_sherryb_1333260000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Drove up the canyon twice while visiting family in SLC. Very beautiful drive. Went early evening & watched the snowcats grooming the ski runs. Lots of fun for a flat lander! Lots of wonderful views & picnic areas on this road.", 
+        "companion": "family", 
+        "contributions": 1091, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1335333600", 
+        "review_title": "Very nice drive", 
+        "reviewer": "Sherry B", 
+        "visit_time": "1333260000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_saphfirebluez", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is my favorite canyon for summer camping, hiking, or concerts at the Bird... and winter skiing is the absolute best. I ski at Alta mostly as a local they have the best deal with the locals pass. But, Snowbird is my favorite. Love little cloud and the Tram run. Love having foot rests on my chairs, too.", 
+        "contributions": 1415, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1324537200", 
+        "review_title": "Snowbird, Alta, Campground...all the best!", 
+        "reviewer": "saphfirebluez"
+      }, 
+      "_type": "_doc"
+    }
+  ], 
+  "time_to_travel": [
+    {
+      "_id": "littlecottonwoodcanyon_camaronz_1569909600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a great drive if you wish to spend a couple of hours away from the city in the Fall. The colors are so nice and the road is easy, i guess it would be different once the snow comes but would still like to see it then too.", 
+        "contributions": 279, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1571032800", 
+        "review_title": "Very easy drive from the valley, great for an afternoon drive", 
+        "reviewer": "camaronz", 
+        "visit_time": "1569909600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_michaelb_1569909600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The fall colors are stellar. River is beautiful. Lots to do at Snowbird resort. If passing through Salt Lake take an hour and drive up canyon.You'll be glad you did.", 
+        "companion": "family", 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1570600800", 
+        "review_title": "Beautiful!", 
+        "reviewer": "Michael B", 
+        "visit_time": "1569909600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_sherryb_1556690400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Had a wonderful day driving up and down this canyon. Enjoyed the amazing drive and seeing the snow. People were still skiing in the middle of May! This is a beautiful drive any time of the year, so take time to enjoy it.", 
+        "companion": "couples", 
+        "contributions": 1091, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1561701600", 
+        "review_title": "Another Amazing Drive", 
+        "reviewer": "Sherry B", 
+        "visit_time": "1556690400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_jennscents_1530424800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We stumbled upon this beautiful drive, that led us to some incredible scenery and photo ops, with off-the-beaten path hiking trails. We stopped off on the side of the road at a little parking area. We could hear water flowing so we hiked the trail until we found a gorgeous creek with flowing water. We sat there taking in the fresh air, beautiful weather and enjoyed a snack. Traffic was a little congested heading to Alta, so we turned around and headed back. Still worth the trip.", 
+        "companion": "business", 
+        "contributions": 59, 
+        "likes": "2", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1532584800", 
+        "review_title": "Beautiful drive, incredible scenery with off-the-beaten path hiking trails", 
+        "reviewer": "JennScents", 
+        "visit_time": "1530424800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_dragonflytw65_1514790000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We had spent quite a lot of time in Big Cottonwood Canyon and our drive to Snowbird was our first time in Little Cottonwood Canyon. It was very different and just as beautiful. The drive alone is a must do for nature lovers visiting Salt Lake City and even non skiers will appreciate the atmosphere, restaurants, shops and views from Snowbird in the winter.", 
+        "companion": "couples", 
+        "contributions": 2926, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1517814000", 
+        "review_title": "Beautiful!", 
+        "reviewer": "dragonflytw65", 
+        "visit_time": "1514790000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_holeysneakers_1506837600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Little Cottonwood Canyon is one of the three main routes up to Salt Lake City's famous Ski areas. All three routes offer spectacular views. Little Cottonwood Canyon is an eight-mile drive that ends in the old mining town/now ski resort town of Alta. If the steep granite walls didn't clue you in, the heavily bunkered resort buildings and periodic gates and avalanche warning signs would tell you that this drive is not one to be taken lightly in the winter. But in the fall, the foliage is absolutely gorgeous, especially in contrast to the granite. If you want to get out and walk, there is Temple Quarry Trail at the mouth of the canyon. Just keep in mind that there are no dogs allowed anywhere in the canyon (to protect the watershed). Alta itself is a bit of a disappointment as a town, as there is really nothing there except the resort. But as a little getaway to nature that is just minutes away from Salt Lake City, it is definitely worth a visit.", 
+        "companion": "family", 
+        "contributions": 224, 
+        "likes": "2", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1507788000", 
+        "review_title": "Gorgeous Scenic Drive Just Outside the City", 
+        "reviewer": "HoleySneakers", 
+        "visit_time": "1506837600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_kb_222014_1498888800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "On our last trip to Salt Lake, my wife and I had about an hour or so of free time, so we decided to take a drive up the canyon. The road ends at Alta ski resort, so you'll need to turn around and go back to where you came from. Other canyons we have seen actually connect to roads on the other side - such as the drive up to Park City, for example. However, this probably means there are fewer cars along your way.\nThe scenery is breathtakingly beautiful. I'm sure it would be pretty dangerous during the winter months with snow and ice everywhere, but if you are here during the summer months, you have plenty of wonderful scenery to enjoy. Along the way, there are several places to stop and take pictures or just enjoy the view.\nThe drive up to the top of the road does not take very long - it's only about 9 miles or so from the base of the canyon to Alta. But it also means you can see the entire canyon quickly.\nIf you love the outdoors, you would love to make this drive.", 
+        "companion": "couples", 
+        "contributions": 56, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1501394400", 
+        "review_title": "Beautiful drive. Very much worth your time if you love the outdoors.", 
+        "reviewer": "KB_222014", 
+        "visit_time": "1498888800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_snorkelingfan46_1498888800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Visiting family in Salt Lake City, our daughter took us up to Albion Basin in Little Cottonwood Canyon to see the wild flowers. Although mid-July may be a couple weeks before peak season, the hike up the path to the mountain lake was quite spectacular. It's the perfect place to escape the 90+ degree temps down in the City with a breezy mid-70's temperature to enjoy while climbing the trail. There is no shortage of wildflowers in all directions, as well as leftover snow pack in many places. The canyon in the winter is prime skiing area, so there are chairlift towers around, but not enough to diminish the enjoyment of the scenery. There are bathroom facilities by the main parking lot at the trail head. Parking can be a bit hard to find. The volunteers on the roadway will encourage you to park well below the trail and take a tram up to the final parking area, but we took the risk and were rewarded with a newly vacated spot. There are also a few turn-outs along the drive up that offer spaces for 3-5 cars, so it is possible to park short of the trail head and hike the road a ways. We noticed quite a number of couple with very young children in backpacks because the climb is only moderately demanding. Note, that the elevation in the canyon is over 9,000 above sea level, so if you are from a much lower altitude, you may possibly get a bit more winded than you might expect.", 
+        "companion": "couples", 
+        "contributions": 226, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1500098400", 
+        "review_title": "Spectacular!", 
+        "reviewer": "snorkelingfan46", 
+        "visit_time": "1498888800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_heatherr_1464760800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I think this is what I miss most about living in Utah. I used to live in Sandy, which is in the valley below the drive up the canyon. It's very easy to get there and it's not as crowded as Park City and some of the other scenic drives in Utah.\nIt's definitely my favorite drive in the fall. When the leaves are changing, it's an amazing drive. It's also got some nice hiking trails for the summer months. It's a nice break in the summer from the heat in the valley. The trees always smell amazing and there's usually a nice breeze.\nI love this canyon and wish I could go back more often.", 
+        "companion": "family", 
+        "contributions": 667, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1492063200", 
+        "review_title": "Beautiful drive", 
+        "reviewer": "Heather R", 
+        "visit_time": "1464760800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_kurth_1491026400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "One of the top 5 scenic drives within 30min of a major airport in the US, maybe the best. Glaciated, U-shaped canyon. Mountains rise 7,000 ft over Salt Lake valley floor. Tram ride at Snowbird is amongst the most scenic trams/gondolas in US, and new restaurant at top is an outstanding place to have a bit to eat, soak up sun and chew on God's scenery. Caution that if snowy, won't see much and road requires chains and/or 4WD with significant fine if you get stuck b/c you drove up with bad equipment (rent the right car at airport if winter). NO dogs allowed including in car (another min. $125.00 fine). Numerous excellent hikes in the canyon, but none are truly easy. Pretty much all are at least intermediate if not hard. 2 ski resorts, Alta, Snowbird are world class skiing, although Alta isn't world class hotels/amenities (people ski here, so this isn't peopled by boards of monied folks.) Enjoy it!", 
+        "companion": "friends", 
+        "contributions": 324, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1491804000", 
+        "review_title": "A Top 5 Scenic Ride Next to Major City", 
+        "reviewer": "Kurt H", 
+        "visit_time": "1491026400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_ruchi2787_1443679200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Drove this canyon with mu husband countless number of times and each time it's been a unique, out of the world experience! Ski resorts in winter and alpine lakes and hike in summer, what could get better than this! Especially when the drive to the canyon from downtown SLC is not more than 25-30 mins. Never lived in a city so beautiful and with so much charisma surrounded!", 
+        "companion": "couples", 
+        "contributions": 8, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1473919200", 
+        "review_title": "Mesmerizing Canyon, can never get enough of it!", 
+        "reviewer": "Ruchi2787", 
+        "visit_time": "1443679200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_thesuze12_1464760800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We had toured Big Cottonwood and decided to drive up Little Cottonwood. The views are beautiful and it was a treat to see the ski resorts and homes and the top of the mountain. If you only have time for one I recommend Big Cottonwood. Both are just glorious in June.", 
+        "companion": "business", 
+        "contributions": 331, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1466316000", 
+        "review_title": "Beautiful Views", 
+        "reviewer": "TheSuze12", 
+        "visit_time": "1464760800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_sherryb_1462082400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a wonderful drive any time but this past May there were lots of waterfalls because of snow melt. Enjoyed sitting in our car at the end watching some people sled and some marmots running on the snow. Alta ski resort was closed, but the views are still wonderful.", 
+        "companion": "couples", 
+        "contributions": 1091, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1465020000", 
+        "review_title": "Wonderful canyon to drive", 
+        "reviewer": "Sherry B", 
+        "visit_time": "1462082400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_carola_1441087200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This canyon is only minutes away from the south end of the Salt Lake valley. There are many hiking trails of varying difficulties, 2 ski resorts ( Snowbird & Alta), camping and picnic areas, a creek and the town of Alta at the top of the canyon. If you have a 4 x4, you can keep going at the top and take the dirt road over Guardsman Pass and end up in the Heber Valley. We love to cross country ski along the Quarry trail during the winter. A beautiful glacier-made canyon!", 
+        "contributions": 131, 
+        "likes": "2", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1445925600", 
+        "review_title": "We are spoiled to have this beautiful canyon so close by!", 
+        "reviewer": "Carol A", 
+        "visit_time": "1441087200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_jmhut_1433138400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "A short drive from most homes in Salt Lake City, Little Cottonwood is a year-round outdoor playground. World class skiing is a given. However, when the snow melts those same slopes and peaks offer top notch mountain biking, hiking, backpacking, etc. It's also at least ten degrees cooler than the valley in the summertime and offers clean air during the conversion months that make the valley so uncomfortable to be outdoors in. In late May the meadows explode in wild flowers. It is really a site to see and does the soul good after a long week in the concrete and asphalt of the city. Not only free to the public but accessible via public transportation. Food and lodging available at Snowbird, which stays open year round, as does its tram.", 
+        "companion": "family", 
+        "contributions": 191, 
+        "likes": "3", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1443420000", 
+        "review_title": "Incredible resource", 
+        "reviewer": "JMHUT", 
+        "visit_time": "1433138400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_kenjean2014_1438408800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "If you are ever in this canyon in August you can find the best wildflowers if you hike through Albion Basin up to Cecret Lake. Easy hike and great news.", 
+        "companion": "couples", 
+        "contributions": 130, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1443333600", 
+        "review_title": "Best wildflowers ever", 
+        "reviewer": "KenJean2014", 
+        "visit_time": "1438408800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_roonealredge_1427868000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Just spectacular! Make sure that you drive safely and do not speed up or down the winding canyon road. One, you'll miss the beautiful scenery, animals and the like, and two, it is dangerous. Safe if you obey traffic laws! You need to go all the way to the end past the Snowbird and Alta Resorts (not just for winter skiing). Many nice hikes and trails. Spring time has the flowers blooming. Must see anytime of the year. Very high recommendation!", 
+        "contributions": 78, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1438581600", 
+        "review_title": "Great drive and beautiful vistas!", 
+        "reviewer": "RooneAlredge", 
+        "visit_time": "1427868000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_scribblin_1435730400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "After living here for about six months and motorcycle riding various canyons, I have to say that Little Cottonwood is my favorite. Without taking anything away from Big Cottonwood, Emigration, and other local canyons, the views in Little Cottonwood are the best, in my opinion. Even if you don't ski, grab lunch at Alta Lodge -- lunch prices are comparable to an Applebee's or Chili's -- and just enjoy the scenery. In warm weather, drive past the gate at Alta and up the dirt road for even more spectacular views (and great hiking). Follow the road to the parking lot for the camping area, and hike up to the lake. Beautiful scenery and a pretty terrific motorcycle road make Little Cottonwood my top pick for local canyons!", 
+        "contributions": 388, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1438149600", 
+        "review_title": "Best Views Around", 
+        "reviewer": "scribblin", 
+        "visit_time": "1435730400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_5barbs19_1430460000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I love cottonwood canyon ! Beautiful day hikes , saw lots of wild life even moose. Go during the week if you can very quite and serene. If you go in the summer go early, the weather is about 10 degrees cooler than the valley", 
+        "contributions": 11, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1436853600", 
+        "review_title": "Wonderful hikes", 
+        "reviewer": "5barbs19", 
+        "visit_time": "1430460000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_susana_1406872800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "People define beauty differently, but it's difficult to beat the beauty of Little Cottonwood Canyon. From the city limits of Sandy to the end of the trail above the ski resorts, the winding road takes you from pines and aspens, through fir and spruce, and up above the tree line. If you're there for the bloom of the spring wildflowers, the views are truly breathtaking.\nThe fauna can be spectacular as well. The canyon is home to many species of birds and fish as well as squirrels, pine martin, deer, and other Rocky Mountain creatures. This is also the one place where I can almost always spot a moose.\nTake a day or just a two-hour drive. Take a picnic or just a bottle of water. Take your family or just a friend, but definitely take advantage of this spectacular natural wonder.", 
+        "companion": "couples", 
+        "contributions": 312, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1436680800", 
+        "review_title": "Nature at its finest", 
+        "reviewer": "Susan A", 
+        "visit_time": "1406872800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_tawnyh_1404194400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Little Cottonwood Canyon is great! Its a wonderful place to get away from it all and its so close by! If you get the chance, definitely check out albion basin in the spring time!", 
+        "contributions": 11, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1435644000", 
+        "review_title": "wonderful!", 
+        "reviewer": "Tawny H", 
+        "visit_time": "1404194400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_evaskates_1427868000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "A friend and I decided to go on a little hike towards Alta. We picked a perfect day. It was sunny, warm, however lots of snow was still on the ground (there was an unexpected snow storm two days before). The paths were freshly groomed by snow grooming machines. The hike was very pleasant, and easy. Most ski lifts were opened, few skiers, a couple of show-shoers.\nAfter climbing to one of the lifts, we sat on rocks to eat snacks and enjoy breath taking views. One complain - as a first time visitor - no trail maps, the official trail site does not specify which trails are not accessible until summer. We wanted actually to go to Cecret Lake, but learned from a local person, that it is truly a summer hike. However we both had a good time on whatever trail that was", 
+        "companion": "solo", 
+        "contributions": 32, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1429596000", 
+        "review_title": "breathtaking views", 
+        "reviewer": "EvaSkates", 
+        "visit_time": "1427868000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_ruup4adventure2_1409551200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This canyon makes for a scenic drive year-round, but it's especially splendid in the fall when the leaves on the quaking aspen trees turn color. It's a steep canyon and smaller engine cars may struggle at times. Picnic areas are unfortunately extremely limited, but hiking trails are plentiful.", 
+        "companion": "friends", 
+        "contributions": 210, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1428818400", 
+        "review_title": "Lovely drive in the autumn", 
+        "reviewer": "ruup4adventure2", 
+        "visit_time": "1409551200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_hannahbears_mom_1412143200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I'm so glad we took this scenic drive! The views were breathtaking! We went during October, specifically to see fall foliage and we were NOT disappointed! I've never seen so many vibrant colors at one time (outside of a crayon box)! We went the entire length through, and spent a good hour stopping to take pictures of the views and family. I can see how it would get insane during the wintertime, but on a Thursday morning.....the drive was perfect!", 
+        "companion": "family", 
+        "contributions": 561, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1413525600", 
+        "review_title": "Absolutely breathtaking!", 
+        "reviewer": "Hannahbears_mom", 
+        "visit_time": "1412143200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_erenstod", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Beautiful sceneries which to be back during winter but something heavier than a short sleeve and shorts. Anyway, highly recommended for whatever mood you are!\nYou can go up with friends and enjoy or as I did by yourself.\nAmazing", 
+        "contributions": 49, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1412229600", 
+        "review_title": "Nice driving around", 
+        "reviewer": "Erensto D"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_vjgonzo3_1404194400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "My wife and I recently biked and hiked a couple of the many splendid trails among amazing views of the granite cliffs set against the Wasatch-Cache National Forest.\nLocated 15 miles south of Salt Lake City it is easily accessible via signs after taking the 6200 SOUTH exit of I 215.\nThe \"Little\" has so much to offer visitors in the summer including wildlife viewing, cruising the 2+ mile road along a roaring river and, camping at one of the two camp grounds - Tanners Flat & Albion Basin. Climbing is also popular.\nLocals and visitors alike benefit from this beautiful canyon whether or not they leave their car as the sounds, smells, and sights will bring smiles to all.", 
+        "companion": "couples", 
+        "contributions": 39, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1406354400", 
+        "review_title": "Summer fun in the Wasatch at the \"Little\"!", 
+        "reviewer": "vjgonzo3", 
+        "visit_time": "1404194400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_shake801_1367388000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Every visitor to Salt Lake should ride the Snowbird Tram. The experience and views are not to be missed. In the summer, amazing wildflowers color the fields of Albion Basin. Great hikes up White/Red Pine and also Albion Basin. Amazing waterfalls in spring and fields of gold aspen groves in fall. You may encounter moose, mountain goats, deer, coyote, and other wildlife if you look hard and hike a little. And of course, winter boasts the iconic Alta powder and Snowbird terrain that make this a destination for real deal skiers.", 
+        "companion": "solo", 
+        "contributions": 6393, 
+        "likes": "3", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1368943200", 
+        "review_title": "Most spectacular and dramatic canyon in SLC proper", 
+        "reviewer": "shake801", 
+        "visit_time": "1367388000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_sherryb_1333260000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Drove up the canyon twice while visiting family in SLC. Very beautiful drive. Went early evening & watched the snowcats grooming the ski runs. Lots of fun for a flat lander! Lots of wonderful views & picnic areas on this road.", 
+        "companion": "family", 
+        "contributions": 1091, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1335333600", 
+        "review_title": "Very nice drive", 
+        "reviewer": "Sherry B", 
+        "visit_time": "1333260000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_saphfirebluez", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is my favorite canyon for summer camping, hiking, or concerts at the Bird... and winter skiing is the absolute best. I ski at Alta mostly as a local they have the best deal with the locals pass. But, Snowbird is my favorite. Love little cloud and the Tram run. Love having foot rests on my chairs, too.", 
+        "contributions": 1415, 
+        "likes": "1", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1324537200", 
+        "review_title": "Snowbird, Alta, Campground...all the best!", 
+        "reviewer": "saphfirebluez"
+      }, 
+      "_type": "_doc"
+    }
+  ], 
+  "transportation": [
+    {
+      "_id": "littlecottonwoodcanyon_kurth_1491026400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "One of the top 5 scenic drives within 30min of a major airport in the US, maybe the best. Glaciated, U-shaped canyon. Mountains rise 7,000 ft over Salt Lake valley floor. Tram ride at Snowbird is amongst the most scenic trams/gondolas in US, and new restaurant at top is an outstanding place to have a bit to eat, soak up sun and chew on God's scenery. Caution that if snowy, won't see much and road requires chains and/or 4WD with significant fine if you get stuck b/c you drove up with bad equipment (rent the right car at airport if winter). NO dogs allowed including in car (another min. $125.00 fine). Numerous excellent hikes in the canyon, but none are truly easy. Pretty much all are at least intermediate if not hard. 2 ski resorts, Alta, Snowbird are world class skiing, although Alta isn't world class hotels/amenities (people ski here, so this isn't peopled by boards of monied folks.) Enjoy it!", 
+        "companion": "friends", 
+        "contributions": 324, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1491804000", 
+        "review_title": "A Top 5 Scenic Ride Next to Major City", 
+        "reviewer": "Kurt H", 
+        "visit_time": "1491026400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "littlecottonwoodcanyon_georgiagirl59_1454310000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Little Cottonwood Canyon is the home to ski resorts Alta and Snowbird. The views are fabulous and this is a wonderful place for extreme out-doorish people. Many people hike up to the top of the peaks and ski/board down outside of the resorts. Hiking is another activity that is widely done in the canyon also. There are several condo's and house for rent and the Alta shuttle makes it easy to get to the slopes and back home with little trouble. We stayed at HellsGate Condo unit \"J\" and the views were fabulous. The condo was nice and well equipped. I would highly recommend Little Cottonwood Canyon to experience Alta/Snowbird and the views!", 
+        "contributions": 86, 
+        "likes": "0", 
+        "place_name": "Little Cottonwood Canyon", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g28965-d220092-Reviews-Little_Cottonwood_Canyon-Utah.html", 
+        "review_time": "1455692400", 
+        "review_title": "Breathtaking Canyon", 
+        "reviewer": "GeorgiaGirl59", 
+        "visit_time": "1454310000"
+      }, 
+      "_type": "_doc"
+    }
+  ]
+}

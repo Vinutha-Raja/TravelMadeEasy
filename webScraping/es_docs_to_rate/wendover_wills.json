@@ -1,0 +1,970 @@
+{
+  "accessibility": [], 
+  "budget": [], 
+  "food": [
+    {
+      "_id": "wendoverwill_341freddyb_1556690400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Wendover Willie - Nickname given to it from a time well into the late 1950's. The memories rooted into my mind of the many times my parents took us as kids on drives are truly PRICELESS in our De Soto sedan and yes, stopping by what was then THE STATELINE casino for a lunch. A treat indeed for us and for you? A travel back in time through a picture.. Enjoy :)", 
+        "companion": "family", 
+        "contributions": 157, 
+        "likes": "1", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1557208800", 
+        "review_title": "a truly historic icon marker and traveller stop for photo", 
+        "reviewer": "341freddyb", 
+        "visit_time": "1556690400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_excursion760043_1551423600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We had a wonderful time celebrating a friend's 60th Birthday! Good food, good friends and alot of laughs.", 
+        "contributions": 9, 
+        "likes": "1", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1554444000", 
+        "review_title": "Birthday Celebration!", 
+        "reviewer": "Excursion760043", 
+        "visit_time": "1551423600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_lmd_1501567200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Mr. Will is pretty cool. Big ol' cowboy statue/sign, made of neon. He is pretty impressive during the day, but more so at night when he is all lit up.\nThe reception clerk at the hotel says all the locals say Mr. Will is pointing at West Wendover, the town. We took a look the morning we left, and yes, indeed, it appears he is doing so.\nGood to visit for a highway stop. Food is nearby, there are casinos if you are so inclined. You can explain to your kids what he has hanging out of his mouth!", 
+        "contributions": 193, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1515654000", 
+        "review_title": "Mr. Wendover Will is pretty cool.", 
+        "reviewer": "Lm D", 
+        "visit_time": "1501567200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_randkbara_1493618400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "They have many hotels, great workers. Friendliness about town . The hotel people go out of their way to help you and make you feel comfortable.", 
+        "contributions": 22, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1495519200", 
+        "review_title": "Its a great town to visit", 
+        "reviewer": "randkbara", 
+        "visit_time": "1493618400"
+      }, 
+      "_type": "_doc"
+    }
+  ], 
+  "general_info": [
+    {
+      "_id": "wendoverwill_wandah_1601532000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "At the edge of the parking area were quite a few plaques on pedestals with LOTS of historical information on them! Also, extremely scenic area.", 
+        "contributions": 205, 
+        "likes": "1", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1602741600", 
+        "review_title": "First of all, it's FREE...", 
+        "reviewer": "Wanda H", 
+        "visit_time": "1601532000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_susanl_1590991200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I remember him at the edge of town by a casino, drawing in tourists with his light up neon. Someone spent about $200,000 spent to restore and move him down the boulevard. Fun to see especially for nostalgic reasons or kids.", 
+        "companion": "couples", 
+        "contributions": 323, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1594533600", 
+        "review_title": "Big as life!", 
+        "reviewer": "Susan L", 
+        "visit_time": "1590991200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_skwiki_1554098400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a cool, old remnant that demonstrates how interesting it must have been to travel back in the 50's and earlier. Beautiful neon welcoming you into this border town.\nWendover is usually a gas and snack stop for us, but we always make sure we at least drive by Will. There is a grassy area to the west and a few plaques. The only issue is I'm not sure where you can legally stop to get a few photos. The road isn't busy but it didn't look like there is an approved area.", 
+        "companion": "family", 
+        "contributions": 1568, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1559628000", 
+        "review_title": "Great place to get out of the car and walk around", 
+        "reviewer": "Skwiki", 
+        "visit_time": "1554098400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_341freddyb_1556690400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Wendover Willie - Nickname given to it from a time well into the late 1950's. The memories rooted into my mind of the many times my parents took us as kids on drives are truly PRICELESS in our De Soto sedan and yes, stopping by what was then THE STATELINE casino for a lunch. A treat indeed for us and for you? A travel back in time through a picture.. Enjoy :)", 
+        "companion": "family", 
+        "contributions": 157, 
+        "likes": "1", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1557208800", 
+        "review_title": "a truly historic icon marker and traveller stop for photo", 
+        "reviewer": "341freddyb", 
+        "visit_time": "1556690400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_happy4travel_1535781600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is the coolest guy EVER! We were traveling along Wendover and saw this amazing cowboy along the road. Of course we had to take pictures!\nFYI: I'm in love with Wendover Will :)", 
+        "companion": "couples", 
+        "contributions": 1290, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1536127200", 
+        "review_title": "What a cool guy!", 
+        "reviewer": "happy4travel", 
+        "visit_time": "1535781600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_marilynchet_1525154400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I enjoyed the casino games. I was a winner with more money at the end of my trip than I took. It was fun.", 
+        "companion": "friends", 
+        "contributions": 6, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1528524000", 
+        "review_title": "The Best!", 
+        "reviewer": "marilynchet", 
+        "visit_time": "1525154400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_perkadventures_1525154400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Big Statue in the middle of the road. Park car safely and walk over to see front and back. It is my understanding that Wendover Will is lighted at night, see if possible. Near by is the Victory Highway Monuments to see also.", 
+        "companion": "friends", 
+        "contributions": 14751, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1527832800", 
+        "review_title": "Wendover Will", 
+        "reviewer": "Perkadventures", 
+        "visit_time": "1525154400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_tedslc_1519887600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I mean, it's a neon sign. In the middle of the road. It's fun and you'll probably want to take a selfie in front of it, but that's about all.", 
+        "companion": "solo", 
+        "contributions": 490, 
+        "likes": "2", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1524376800", 
+        "review_title": "It's ok as far as signs go", 
+        "reviewer": "TedSLC", 
+        "visit_time": "1519887600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_499theresas_1504245600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Wendover Will is on the opposite side of town from Montego Bay, but really only about a mile away. We drove to it at night the first time. The kids thought it was really cool to see a 30 ft lit up cowboy in a \"gambling\" town. Completely different from our town. :) There is a grassy area at the base, so you may take pictures. We parked in front of it, just a little off of the road, which is probably not what the township wants you to do, but the traffic was very light. We hopped out very quickly and took a quick picture.", 
+        "companion": "family", 
+        "contributions": 110, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1506837600", 
+        "review_title": "If you're in the area, might as well stop by. :)", 
+        "reviewer": "499theresas", 
+        "visit_time": "1504245600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_toad69_1501567200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We loved driving from Utah to Nevada on the old road through Wendover into West Wendover.\nIt was such a stark contrast literally one side old town quiet then Nevada big brash and riotously alive all summed up by Wendover Will as historically important as Vegas Vic.\nA bit of history below from wiki\nPat Denner was commissioned to design the sign for the Stateline Casino in 1952. Denner had just completed the Vegas Vic sign that was erected in 1951. The sign was constructed by The Young Electric Sign Company.\nWendover Will was named after the town of Wendover and William Smith, who founded the Stateline Casino. The 63-foot-tall (19 m) sign was intended to draw travelers in from US Highways 40 and 50, later known as Interstate 80. The sign includes 1,184 feet (361 m) of neon tubing.[2] When driving east on Interstate 80 a caption under the sign reads, \"This is the place,\" apparently in homage to Brigham Young. When driving west the caption reads, \"Where the West begins\".", 
+        "companion": "couples", 
+        "contributions": 294, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1506492000", 
+        "review_title": "Eye catching and impressive", 
+        "reviewer": "toad69", 
+        "visit_time": "1501567200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_douge_1501567200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Stop and say hi to wendover Will. Smile and wave if you must drive by. Check out the Victory road eagle and marked near by. Think of travel along this road in a wagon.", 
+        "companion": "couples", 
+        "contributions": 1174, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1503640800", 
+        "review_title": "Break up road trip", 
+        "reviewer": "Doug E", 
+        "visit_time": "1501567200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_bellanca_1501567200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Yes, there was a version of this guy in Vegas, Reno and Wendover at one or another casino. Now he has been saved and stands on his own pedestal on the west side of town. He is just a fun deal to see. He was here when I was a kid like these grandkids. I am still impressed with the old sign after seventy years!", 
+        "companion": "family", 
+        "contributions": 533, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1503036000", 
+        "review_title": "So NIce They Saved This Guy", 
+        "reviewer": "Bellanca", 
+        "visit_time": "1501567200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_mini_1496296800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We went to see Wendover Will, which is a sign landmark for West Wendover. The sign was originally made for the Stateline Casino in 1952. West Wendover is a casino town on the Nevada/Utah border.", 
+        "companion": "couples", 
+        "contributions": 130586, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1498802400", 
+        "review_title": "Iconic Wendover Will, West Wendover, Nevada", 
+        "reviewer": "mini", 
+        "visit_time": "1496296800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_zipperwill_1493618400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is one gambling town that will NOT rip you off. The people are nice and the businesses are there to serve you and not just take your money and leave you stranded.", 
+        "companion": "friends", 
+        "contributions": 6, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1495778400", 
+        "review_title": "You can visit the entire town on the shuttle and it friendly and comfortable.", 
+        "reviewer": "Zipperwill", 
+        "visit_time": "1493618400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_troyf_1491026400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Right in the middle of the town road there is Will standing tall it's a great sight to see and you need to visit when your here.", 
+        "companion": "family", 
+        "contributions": 979, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1492927200", 
+        "review_title": "Nice town sight to see", 
+        "reviewer": "troy f", 
+        "visit_time": "1491026400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_kevinp_1491026400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Down the Road Right in the middle close to the Rainbow Casino Awesome to see at night all lite up It's a must to takee pictures", 
+        "companion": "couples", 
+        "contributions": 353, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1492236000", 
+        "review_title": "Very Cool", 
+        "reviewer": "Kevin P", 
+        "visit_time": "1491026400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_queenbeejane_1485932400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "we went to see Wendover Bill. He is very big and in the center of the road. It was really quite amazing. They also have a welcome center there that we went in to check out. They let you know about the town, and have pictures and history about town, which I thought very interesting.", 
+        "companion": "friends", 
+        "contributions": 2, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1488351600", 
+        "review_title": "wendover trip", 
+        "reviewer": "queenbeejane", 
+        "visit_time": "1485932400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_cmrdan_1483254000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "A bit crazy, but a nice welcome to the W Wendover area. The town is mostly homes for casino workers, but they do have great Smith's grocery store, and the other handy places.", 
+        "companion": "couples", 
+        "contributions": 302, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1484809200", 
+        "review_title": "Like Vegas of old days", 
+        "reviewer": "cmrdan", 
+        "visit_time": "1483254000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_virginiaandfamily_1480575600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Took a short walk from the Garter Casino to Wendover Will to get a few photos and to take a selfie .Couldnt miss getting a photo in front of him.", 
+        "companion": "couples", 
+        "contributions": 16, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1483081200", 
+        "review_title": "Wanted a photo with Wendover Will", 
+        "reviewer": "virginiaandfamily", 
+        "visit_time": "1480575600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_jaimey_1472709600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The sign is visible for miles. It's just up the road from the major SMITHS Market. It's not unusual to see people taking pictures of friends next to it.", 
+        "companion": "solo", 
+        "contributions": 31, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1483081200", 
+        "review_title": "Kool sign and very interesting historical site right next to it", 
+        "reviewer": "Jaime Y", 
+        "visit_time": "1472709600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_rebeccag_1475301600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Although there is not a lot to see here, it is a nice stopover. There is a wide shoulder to pull off of the road.", 
+        "companion": "solo", 
+        "contributions": 27, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1479884400", 
+        "review_title": "Worth a stop", 
+        "reviewer": "Rebecca G", 
+        "visit_time": "1475301600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_manofc0nstants0rr0w_1475301600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "West Wendover seems to be all casino's owned by the same group and little else.\nWhen I went to the Chevron for a car wash it was surrounded by cops so I went in the morning and got a good exterior carwash\nGlad Wendover Will is there. The only fun thing in a dreary Casino town.", 
+        "companion": "solo", 
+        "contributions": 1027, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1477029600", 
+        "review_title": "Highlight of West Wendover", 
+        "reviewer": "ManOfC0nstantS0rr0w", 
+        "visit_time": "1475301600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_normanv_1472709600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "North of Wendover Will sign, right in front of the new City building, is a historic gravel road with about seven roadside information signs about all the history of this area. Military training area, telephone wires, Lincoln Highway location, railroad tracks, pioneers crossing the salt flats, land speed records set on the salt flats. Allow an hour to read all the interesting information.", 
+        "companion": "solo", 
+        "contributions": 89, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1473573600", 
+        "review_title": "Historic sign used to belong to one casino, the city fixed it up and kept it for everyone.", 
+        "reviewer": "norman v", 
+        "visit_time": "1472709600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_suzis_1470031200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Drove over from Utah just because I could. Stopped in Wendover, and while at the visitor center, saw a post card of Will. The lady at the visitor center proceeded to tell me his history. After that, I just had to see for myself. Pretty cool icon.\nJust off the main road, so it worth the 1 minute drive up the road.\nSnapped my pic with Will and headed back to SLC. Pretty cool day.", 
+        "companion": "solo", 
+        "contributions": 439, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1473228000", 
+        "review_title": "Pretty cool guy....", 
+        "reviewer": "Suzi S", 
+        "visit_time": "1470031200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_gschwob_1470031200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "OK...its a 50' neon sign, right in the median of Wendover Boulevard...that's it! No, this isn't a day trip, however, it is another tribute to the excess of the Nevada gambling industry.", 
+        "companion": "family", 
+        "contributions": 134, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1471932000", 
+        "review_title": "Another Nevada Icon", 
+        "reviewer": "gschwob", 
+        "visit_time": "1470031200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_beemer54_1467352800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Montego Bay for the pool & Jacuzzi. Rainbow Casino for gambling and Peppermill for all around gambling", 
+        "companion": "couples", 
+        "contributions": 405, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1470895200", 
+        "review_title": "Best little gambling town in Nevada", 
+        "reviewer": "Beemer54", 
+        "visit_time": "1467352800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_treadmillace_1459490400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Resurrected and restored, Wendover will stands at the edge of casino row, waiting to be gazed at and photographed. Luckily the road he's on isn't too busy, he sits in the middle with an ambiguous space of asphalt which is unlikely a safe place to park, but deters no one from just stopping. He has two brothers made by Young Electric Sign Co: Vegas Vic, (downtown Vegas) and River Rick (Laughlin NV). A must see, and the easiest way / beacon to find Smiths, when you run out of beef jerky and bourbon.", 
+        "companion": "solo", 
+        "contributions": 11, 
+        "likes": "1", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1462168800", 
+        "review_title": "Tin and neon is at the heart of this Nevada triplet", 
+        "reviewer": "Treadmillace", 
+        "visit_time": "1459490400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_yodelman_1443679200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Wendover sits along legendary roads of passage across the desert and salt flats. At the Montego Bay Casino, there's a restored Lincoln Hwy marker--a later alignment of the Lincoln was routed to Wendover then down to Ely. And Wendover was also along the Victory Hwy (back when roads had names not numbers), named for the WW1 veterans. Wendover Will used to sit by one of the casinos some years ago, but now he has been relocated to the west side of town, on the old highway leading out to rejoin the interstate. It's nice to see a remnant of the old road culture survive in 2015.", 
+        "companion": "couples", 
+        "contributions": 333, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1444716000", 
+        "review_title": "old road remnant", 
+        "reviewer": "Yodelman", 
+        "visit_time": "1443679200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_elelvr_1435730400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Whenever we drive near Wendover we always take a drive by Will...I know it's cheesy but we like driving past the welcome (or goodbye) of Wendover Will, haha", 
+        "contributions": 46, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1438668000", 
+        "review_title": "I know it's cheesy, but........", 
+        "reviewer": "elelvr", 
+        "visit_time": "1435730400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_pete_1427868000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Just past the Casinos on the Wendover strips in the middle of highway 80 sits Wendover Will.He is a Carbon copy of Vegas Vic. There is a place to park and get out to see him and take pictures. We stopped in the day time and them came back at night when he is all lit up with Neon. When in Wendover you must see this.", 
+        "companion": "couples", 
+        "contributions": 394, 
+        "likes": "4", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1429250400", 
+        "review_title": "just like Vic", 
+        "reviewer": "Pete", 
+        "visit_time": "1427868000"
+      }, 
+      "_type": "_doc"
+    }
+  ], 
+  "time_to_travel": [
+    {
+      "_id": "wendoverwill_timothyr_1525154400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "On West Wendover Blvd. there is hardly any traffic.Easy to get around any time day or night. not to many stop lights. You might want to use the shuttle also,24 hours a day.\n.", 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1550127600", 
+        "review_title": "you may use the shuttle", 
+        "reviewer": "Timothy R", 
+        "visit_time": "1525154400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_flexitdriver_1533103200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Unsure of the history of this statue, but stopped on roadside to get photo, illuminated at night too!", 
+        "companion": "couples", 
+        "contributions": 417, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1535263200", 
+        "review_title": "Interesting statue on the entrance to town", 
+        "reviewer": "flexitdriver", 
+        "visit_time": "1533103200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_joanh_1533103200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Not a very long walk from the Rainbow and in the evening there wasn't much traffic so it was easy to get over to the statue. Not very good surrounding light for nighttime photography", 
+        "companion": "friends", 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1533621600", 
+        "review_title": "Interesting Landmark", 
+        "reviewer": "Joan H", 
+        "visit_time": "1533103200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_redhornet72653_1530424800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Nother to share really. He just stands there when you enter town and lights up at night. The Las Vegas style downtown appeal of Front Street.", 
+        "companion": "couples", 
+        "contributions": 431, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1533362400", 
+        "review_title": "Hes a big greeter...", 
+        "reviewer": "RedHornet72653", 
+        "visit_time": "1530424800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_mikel_1530424800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Stopped in Wendover for the night. Could see Will from the interstate so we had to go visit him. Very easy access. Very easy to grab a pic of him. His presence brought a smile to a weary traveler. Glad we stopped in!", 
+        "companion": "couples", 
+        "contributions": 331, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1532757600", 
+        "review_title": "Cool!", 
+        "reviewer": "mike l", 
+        "visit_time": "1530424800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_thetotalpackage_1527832800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is really cool! Especially at night. Beautiful retro neon sign at the west end of town. Great for photos with the lights of Wendover in the background. Lights up front and back and is seen from I-80.", 
+        "companion": "solo", 
+        "contributions": 406, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1528178400", 
+        "review_title": "I love Neon", 
+        "reviewer": "The Total Package", 
+        "visit_time": "1527832800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_perkadventures_1525154400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Big Statue in the middle of the road. Park car safely and walk over to see front and back. It is my understanding that Wendover Will is lighted at night, see if possible. Near by is the Victory Highway Monuments to see also.", 
+        "companion": "friends", 
+        "contributions": 14751, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1527832800", 
+        "review_title": "Wendover Will", 
+        "reviewer": "Perkadventures", 
+        "visit_time": "1525154400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_lmd_1501567200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Mr. Will is pretty cool. Big ol' cowboy statue/sign, made of neon. He is pretty impressive during the day, but more so at night when he is all lit up.\nThe reception clerk at the hotel says all the locals say Mr. Will is pointing at West Wendover, the town. We took a look the morning we left, and yes, indeed, it appears he is doing so.\nGood to visit for a highway stop. Food is nearby, there are casinos if you are so inclined. You can explain to your kids what he has hanging out of his mouth!", 
+        "contributions": 193, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1515654000", 
+        "review_title": "Mr. Wendover Will is pretty cool.", 
+        "reviewer": "Lm D", 
+        "visit_time": "1501567200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_sweetatr_1509516000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Stopped by here to take a look then came back at night to see all of the colors. Very nice welcome mascot for the city. Good place to stop for a picture.", 
+        "contributions": 285, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1511247600", 
+        "review_title": "Kinda Cute Welcome Mascot", 
+        "reviewer": "sweetatr", 
+        "visit_time": "1509516000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_499theresas_1504245600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Wendover Will is on the opposite side of town from Montego Bay, but really only about a mile away. We drove to it at night the first time. The kids thought it was really cool to see a 30 ft lit up cowboy in a \"gambling\" town. Completely different from our town. :) There is a grassy area at the base, so you may take pictures. We parked in front of it, just a little off of the road, which is probably not what the township wants you to do, but the traffic was very light. We hopped out very quickly and took a quick picture.", 
+        "companion": "family", 
+        "contributions": 110, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1506837600", 
+        "review_title": "If you're in the area, might as well stop by. :)", 
+        "reviewer": "499theresas", 
+        "visit_time": "1504245600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_amandab_1493618400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Wendover Will is always great to see... Shows the history of Wendover and is always bright at night.", 
+        "companion": "couples", 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1496296800", 
+        "review_title": "Wendover Fun!", 
+        "reviewer": "Amanda B", 
+        "visit_time": "1493618400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_frang_1493618400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "As you ride through the town of Wendover, you will find Wendover Will at the end of the strip. This is a very large figure of a cowboy that is very welcoming and fun for children to see. We were there during the daytime. I think it lights up at night.", 
+        "companion": "couples", 
+        "contributions": 139, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1495951200", 
+        "review_title": "Will in Wendover", 
+        "reviewer": "Fran G", 
+        "visit_time": "1493618400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_kevinp_1491026400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Down the Road Right in the middle close to the Rainbow Casino Awesome to see at night all lite up It's a must to takee pictures", 
+        "companion": "couples", 
+        "contributions": 353, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1492236000", 
+        "review_title": "Very Cool", 
+        "reviewer": "Kevin P", 
+        "visit_time": "1491026400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_onetoonehundred_1475301600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "It was probably in a better spot in its original place at the border but it still looks good where it is now. Easy to take a good photo day or night and worth the effort.", 
+        "companion": "couples", 
+        "contributions": 198, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1477375200", 
+        "review_title": "Cool sign and photo opportunity", 
+        "reviewer": "onetoonehundred", 
+        "visit_time": "1475301600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_manofc0nstants0rr0w_1475301600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "West Wendover seems to be all casino's owned by the same group and little else.\nWhen I went to the Chevron for a car wash it was surrounded by cops so I went in the morning and got a good exterior carwash\nGlad Wendover Will is there. The only fun thing in a dreary Casino town.", 
+        "companion": "solo", 
+        "contributions": 1027, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1477029600", 
+        "review_title": "Highlight of West Wendover", 
+        "reviewer": "ManOfC0nstantS0rr0w", 
+        "visit_time": "1475301600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_travelingmedtech_1459490400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Wendover Will is an local town icon for over a century. A must see and snap a picture of the huge icon. He's arm was not moving the day I was there but the cigarette was a waving back and forth at night. Truly a great quick 2 minute stop at the end of town.", 
+        "companion": "friends", 
+        "contributions": 613, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1462168800", 
+        "review_title": "Best welcome in town", 
+        "reviewer": "TravelingMedTech", 
+        "visit_time": "1459490400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_stevenw_1454310000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "If you visit Wendover, you'll most likely spot him. He's tall and stands out, especially at night. An icon of a bygone era that still lives on.", 
+        "companion": "couples", 
+        "contributions": 1229, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1455519600", 
+        "review_title": "Can't Miss Him", 
+        "reviewer": "Steven W", 
+        "visit_time": "1454310000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_pete_1427868000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Just past the Casinos on the Wendover strips in the middle of highway 80 sits Wendover Will.He is a Carbon copy of Vegas Vic. There is a place to park and get out to see him and take pictures. We stopped in the day time and them came back at night when he is all lit up with Neon. When in Wendover you must see this.", 
+        "companion": "couples", 
+        "contributions": 394, 
+        "likes": "4", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1429250400", 
+        "review_title": "just like Vic", 
+        "reviewer": "Pete", 
+        "visit_time": "1427868000"
+      }, 
+      "_type": "_doc"
+    }
+  ], 
+  "transportation": [
+    {
+      "_id": "wendoverwill_jdmrestor_1567317600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Wendover Will, or referred to as Bendover Bill by the gamblers is a must stop and see. Interesting, at the base of the sign are bricks inscribed with the names and dates of many of the racers that were on the Bonneville Salt Flats. Another place to see is the Enola Gay hangar at the airport. A lot of history in Wendover", 
+        "contributions": 21, 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1569477600", 
+        "review_title": "Wendover Icon !", 
+        "reviewer": "jdmrestor", 
+        "visit_time": "1567317600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "wendoverwill_timothyr_1525154400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "On West Wendover Blvd. there is hardly any traffic.Easy to get around any time day or night. not to many stop lights. You might want to use the shuttle also,24 hours a day.\n.", 
+        "likes": "0", 
+        "place_name": "Wendover Will", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g46014-d7944216-Reviews-Wendover_Will-West_Wendover_Nevada.html", 
+        "review_time": "1550127600", 
+        "review_title": "you may use the shuttle", 
+        "reviewer": "Timothy R", 
+        "visit_time": "1525154400"
+      }, 
+      "_type": "_doc"
+    }
+  ]
+}

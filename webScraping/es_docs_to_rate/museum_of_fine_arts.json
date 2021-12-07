@@ -1,0 +1,840 @@
+{
+  "accessibility": [], 
+  "budget": [
+    {
+      "_id": "utahmuseumoffinearts_mini_1430460000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I was impressed by the quality of this art museum on the University of Utah Campus. It is located in the Marcia and John Price Building on campus.\nThere are different sections in the gallery focusing on high quality art. Much of the art I knew and was impressed by the selection. They have art that focuses on the ancient and classical world, European and American masterworks, Asian art, art of Utah and the American West, and modern and contemporary art. My personal favorite was the art of Utah and the American West which had some stunning pieces.\nThere is an admission charge to the galleries.\nOne can park for free across the street from the Utah Museum of Fine Arts. The parking places are highlighted. One does need to register the car's license plate with the staff at the ticket desk at the gallery.", 
+        "companion": "solo", 
+        "contributions": 130586, 
+        "likes": "1", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1433397600", 
+        "review_title": "High Quality Art collection - Utah Museum of Fine Arts", 
+        "reviewer": "mini", 
+        "visit_time": "1430460000"
+      }, 
+      "_type": "_doc"
+    }
+  ], 
+  "food": [
+    {
+      "_id": "utahmuseumoffinearts_lodiwinebob_1556690400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Incredibly impressed by this museum. Wide variety of art from around the world tastefully and professionally displayed and curated.\nOn the University of Utah campus which is also beautiful.\nVery nice gift shop and small but seemingly popular cafe.", 
+        "companion": "friends", 
+        "contributions": 435, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1559023200", 
+        "review_title": "Superb and Surprising", 
+        "reviewer": "LodiWineBob", 
+        "visit_time": "1556690400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_kevinw_1538373600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "My wife is the artist. We go to a lot of museums. We spent a good two hours here. Facility and overall environment of UMFA was wonderful. Two stories, with elevator. Great cafe and gift shop. Art included Asian, Pacific, African, Europe, American and more. Parking is free.", 
+        "companion": "couples", 
+        "contributions": 2154, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1538719200", 
+        "review_title": "Very Enjoyable and Worth a Visit", 
+        "reviewer": "Kevin W", 
+        "visit_time": "1538373600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_sanddhwestchilt_1448953200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Great venue for wedding plus able to wander around the art exhibition between wedding breakfast and evening reception", 
+        "companion": "family", 
+        "contributions": 40, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1458540000", 
+        "review_title": "Wedding venue", 
+        "reviewer": "SandDHwestchilt", 
+        "visit_time": "1448953200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_mikenay_1435730400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "It's fun to go here on Free museum days (First Wednesdays and Third Saturdays). The third Saturdays also have special craft activities that you can participate in. They are aimed for families and children, but I often enjoy decorating clay plates, making a sculpture, etc as well. The museum staff is very friendly and explains the exhibits that are going on.\nUMFA is well-curated, and even though it doesn't have any singular stand alone pieces, it is does have some beautiful works by famous artists such as Renoir and Singer-Sargent. These master works are combined with unique exhibits such as Mayan pottery, Spanish art, and an Egyptian sarcophagus room. It is well worth the low price of admission (especially on aforementioned free days).\nLet it be said that I actually like the streamer room. Sure, it could probably be used for a lot more art in the large hall, and it isn't my favorite Feher piece, but it is pretty awesome to have a Feher piece at all. His work is certainly modern contemporary, which many people don't appreciate; that's fine. But he is one of the biggest names in the US of this generation, and the pink streamers are just another example of his simple trademark colorful design. For the people that don't appreciate the neon pink streamers - at least he didn't paint an entire city lot pink here as he did in New York.\nThere is also a small cafe in the front where you can get cookies, scones, and coffee, which is a great way to end your visit, or hang out while the kids are doing crafts or listening to stories.\nThe parking is the one thing that leaves more to be desired, but if you go on the weekend there is plenty of free parking since permits aren't enforced.", 
+        "contributions": 32, 
+        "likes": "1", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1458540000", 
+        "review_title": "One of my favorite museums in Salt Lake", 
+        "reviewer": "MikeNay", 
+        "visit_time": "1435730400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_carolb_1409551200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The museum is located on the University campus, easy access from my downtown hotel via the SLC light rail system. The museum collection is interesting and varied and the exhibits are well curated.. The western art holdings in particular are excellent and varied, and the temporary exhibits were fantastic. Allow several hours. I had lunch at the museum cafe, delicious food and very friendly service, sat outside on the patio enjoying the mountain view. Great afternoon.", 
+        "companion": "solo", 
+        "contributions": 23, 
+        "likes": "1", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1412834400", 
+        "review_title": "Well worth a visit", 
+        "reviewer": "Carol B", 
+        "visit_time": "1409551200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_anabaile_1409551200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We have visited the UMFA a few times for special exhibits. Recently we had wanted to see the exhibit on the Bingham Canyon mine. It was very well done, including works from the museum's collection along with borrowed works from various sources. It piqued an interest in us about the process of curating a special exhibit.\nI would suggest that parking could be better marked and explained. The building itself is great with easy access. There is a cafe available, although we did not eat there. We took a quick walk through the gift shop and found it to be very interesting, having some unique items for sale.\nIn addition to the Bingham mine exhibit, we perused the other works on display from the permanent collection. I agree that Salt Lake can and should have a more extensive art museum, but we are pleased with what we have. From the display of the history of the museum in the cafe it is clear that there are many works in storage that could be displayed were there more space and personnel, for instance it referred to a vast collection of Navajo weavings in the permanent collection. I want to see them! It also mentioned a collection of Chinese porcelain. What is in storage that was NOT mentioned!!!\nAs far as current displays, it seems rather heavy on South Pacific island works. We found the variety and quality of paintings from American and European artists to be quite broadly represented. The biggest surprise to me was a video performance work. Usually I scoff, since I consider myself somewhat of a provincial...but it actually captivated me as I took time to watch it. So the museum opened my mind to something new on a rainy Saturday. I loved that about it. Well worth the visit.", 
+        "companion": "couples", 
+        "contributions": 197, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1411970400", 
+        "review_title": "A well-spent rainy Saturday afternoon", 
+        "reviewer": "AnaBaile", 
+        "visit_time": "1409551200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_corvettegirl07_1404194400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a lovely museum that you can easily enjoy 1 1/2-2 hours exploring. I suggest taking one of the short tours to get you well acclimated and then take off on your own. They have a very nice cross selection of works and they rotate stored works to keep things changing. There is also a very nice restaurant and gift shop.", 
+        "companion": "couples", 
+        "contributions": 177, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1406354400", 
+        "review_title": "A great variety and changes often.", 
+        "reviewer": "corvettegirl07", 
+        "visit_time": "1404194400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_smillie-girl_1391238000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Unfortunately I did not have time for a full walk-about but I did spend time in the gift store and ate at the cafe. Both are excellent. Kudos to the buyer for the Museum store - saw several unique items and the manner of display made it fun to walk around. At the cafe I had the apple & brie baguette. YUM! I will definitely return - UMFA has late hours on WED for the business travellers.", 
+        "companion": "business", 
+        "contributions": 112, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1393484400", 
+        "review_title": "Store and Cafe", 
+        "reviewer": "Smillie-girl", 
+        "visit_time": "1391238000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_wbullseye_1359702000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The Utah Museum of Fine Arts is located on the campus of the University of Utah in Salt Lake City. It is easy to find with signs along the main road. There is limited parking across the street from the museum as well as near the main entrance. Unless there is a football game, I wouldn't expect parking to be much of an issue however. The regular adult price for admission is $7, with discounts for senior citizens and children. Entrance is free for members of the military. However at $7 the museum is still worth it.\nThe museum is small but still provides an excellent selection of paintings and sculptures. Unlike many art museums in the US, this one actually has quality works by famous artists. You will not find any abstract or \"art done by monkeys\" here. They have temporary exhibits that rotate, but don't know how often.\nThey have a selection of Native American, US, Pacific Islands, ancient Egypt, Rome, and others in different rooms. While I was there they had a temporary exhibit titled: Bierstadt to Warhol: American Indians in the West, which was one of the better collections of art about the depiction of Native Americans I have seen at a small museum. The Native American There are signs that provide a background of the artist and the themes which help for those of us not familiar with them. There is also a free audio guide available, but didn't use it due to time restrictions.\nThe museum is open everyday except for Mondays and holidays. This makes it convenient for those looking for something to do on a Sunday. There is also a small cafe and store inside the museum. Photography is allowed throughout as long as you do not use a flash. I would definitely recommend the Utah Museum of Fine Arts. You can take as much time as necessary, but would plan on at least an hour or two.", 
+        "companion": "solo", 
+        "contributions": 1348, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1361170800", 
+        "review_title": "Small, but very well done", 
+        "reviewer": "wbullseye", 
+        "visit_time": "1359702000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_travel-bug-369_1314856800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We actually went here with friends. One of our friends had donated art to this museum so we enjoyed a personal tour with the director and curator. Enjoyed a wonderful lunch after at the museum cafe.", 
+        "contributions": 272, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1320127200", 
+        "review_title": "Good cafe at the museum too", 
+        "reviewer": "Travel-Bug-369", 
+        "visit_time": "1314856800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_pnemiller_1306908000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a very good museum on the campus of the U. of Utah with free visitor parking. The interior design is spectacular with a center gallery that is 2 to 3 stories high and dramatic stairs leading to the 2nd floor. The art work is eclectic. Excellent American and Western art--Remington Bronco Buster, Dixon, Gilbert Stuart, Sargent, etc. European art was OK, but not great. Interesting temporary exhibits, especially Levitt photographs. This place is worth a viist and is is a member of the North American Reciprocal Museums (NARM) so it is free to members of other museums. There is also a small cafe.", 
+        "companion": "couples", 
+        "contributions": 2272, 
+        "likes": "2", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1308463200", 
+        "review_title": "Very good art museum with striking interior on university campus", 
+        "reviewer": "Pnemiller", 
+        "visit_time": "1306908000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_pulaokhao", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a nice museum in a nice building; no flashy architecture by starchitect like gehry or libeskind but self-effacing building shows art very well. they do not have big name art like picasso or monet but small though comprehensive collection of european and american paintings as well as sculpture from asia and africa. full details on their website. i did not eat at their cafe. free parking. great place to spend a few hours if you like art museums.", 
+        "contributions": 120, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1283320800", 
+        "review_title": "Nice, moderate size museum", 
+        "reviewer": "PULAOKHAO"
+      }, 
+      "_type": "_doc"
+    }
+  ], 
+  "general_info": [
+    {
+      "_id": "utahmuseumoffinearts_margatemensch2016_1625119200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "On a hot July Thursday,I spent a delightful day perusing its fine samples of paintings and Art produced by European Painters.European favorites that day were Master of Santa Maria De La Hoz'\"Saint john the Baptist\"(Spanish Renaissance),Polidoro di Bartolomeo's\"Crucifixion with Saints\"(Italian Renaissance),Pier Francesco Foschi's\"Young Man Weaving Wreath of Flowers\"(High italian Renaissance),Pieter Breughel the Younger's\"Maypole Dance\"(Flemish Baroque),Melchior D'Hondecoeter's\"Birds in Landscape\"(Dutch Master),Charles Lebrun's tapestry.\"Queens of Persia At Foot of Alexander The Great\"(18th Century),Gian Paolo Paninni's\"Capriccio with Roman Ruins\"(Italian Neoclassical),Etienne De Lavalle's\"Anacreon,Eros,Sappho,and Female Dancer\"(18th French),Jean Leon Gerome's\"Christian's Last Prayer\"(French Naturalism)Narcise De La Pena's\"Forest Pool\"(French Barbizon),and Armand Guillaumin's\"Le Maison Nannette a Crozant\"(French Expressionism).\nI also savored their fine samples of American Paintings and Art.Personal American favorites that day included John Copley's\"John,2nd Viscount\"(tip top Mannerism),Theodore Butler's\"Honfleur\"(quality Pointillism),Ralph Blakelock's\"Silvery Night\",Birger Sandzen's\"2 Pines\"(American Expressionism),Conrad Buff's\"Canyonlands\"(American Regionalism),Thomas Moran's\"Wilhelmina Pass,Weber Canyon,Utah\",and Louise Farnsworth's\"Blue Shadows\"(American Regionalism by Utah Painter).\nI also relished their fine collection of Antiquities from India such as;North India \"Vishnu and Avatars\"(12th Century Varanasi)\"Shiva With Parvati(10th Century),and \"Shiva,Lord of Dance\".I also enjoyed studying their Antiquities from China(Guan Yin,Ming)\nI spent a very productive day at one of the better university art museums in this region of the United States..I also liked the ambience of this art museum.", 
+        "contributions": 711, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1626069600", 
+        "review_title": "One Fine Day Perusing Quality Art", 
+        "reviewer": "margatemensch2016", 
+        "visit_time": "1625119200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_angiel_1598940000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Wanting to take my kids to a museum during covid has been a challenge. With this museum being open, affordable, and showing a few pieces from the Smithsonian; I thought it would be a good fit for my family.\n3/4 of the art work showed nudity or semi nudity. So having children meant constant giggling or covering of eyes.\nI was aware from their website that this museum believes in showing all sorts of art work. But every corner we turned showed more and more nudity work.\nSo I suggest to go elsewhere if thats not your thing.", 
+        "companion": "family", 
+        "contributions": 193, 
+        "likes": "2", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1600840800", 
+        "review_title": "Art with lots of giggling", 
+        "reviewer": "Angie L", 
+        "visit_time": "1598940000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_callistos_1564639200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We were able to comfortably go through the museums exhibits in just a couple of hours. The museum has a nice feel. Their collection touches on a wide variety of topics. We especially enjoyed the very ancient artifacts and works from Mexico and Central America, and more recent tribal works from Indonesia. They also have a couple of interesting 18th-century paintings with musical iconography.", 
+        "contributions": 575, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1567058400", 
+        "review_title": "Small collection, but nice museum", 
+        "reviewer": "Callisto S", 
+        "visit_time": "1564639200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_peterp_1533103200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Okay, it is not the Metropolitan Museum or the Boston Museum of Fine Arts, but the UMFA is well worth the visit: there are some truly wonderful works of art on the one hand, and on the other the less than wonderful are deeply instructive. Signature, lighting, and installation are outstanding.\nThe small collections of objects from around the world are fascinating, and many of these objects are thrilling masterpieces.\nThe building itself is a massive airy sculpture.", 
+        "companion": "couples", 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1534140000", 
+        "review_title": "Very Interesting Museum and a Beautiful Building: Well Worth the Visit", 
+        "reviewer": "Peter P", 
+        "visit_time": "1533103200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_keytothekingdom_1433138400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is not a large museum but I enjoyed my visit. The building itself is quite artistic with a huge flight of stairs and a room of ribbons hanging from the ceiling. Though I am not really that into art I liked it.", 
+        "contributions": 167, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1458626400", 
+        "review_title": "nice outing", 
+        "reviewer": "Keytothekingdom", 
+        "visit_time": "1433138400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_montanacwby_1441087200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Visited the Utah Fine Arts in September on a trip to Salt Lake City. They showing an exhibit on Rural English Landscape Painters which was outstanding. The whole arrangement was well done and spent an enjoyable afternoon there. The cafeteria there is also very pleasant so make a day of it and eat there. The physical facility is new and very large. Well worth your time. They had something for everyone", 
+        "contributions": 5, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1445407200", 
+        "review_title": "Art in Utah, Is Great", 
+        "reviewer": "montanacwby", 
+        "visit_time": "1441087200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_seattlej_1438408800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This museum was very peaceful on a hot August afternoon. There are lovely Old Master paintings and changing exhibits. The caf was a nice place to relax with a cold drink.", 
+        "companion": "family", 
+        "contributions": 77, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1439359200", 
+        "review_title": "Lovely small museum", 
+        "reviewer": "Seattle J", 
+        "visit_time": "1438408800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_mini_1430460000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I was impressed by the quality of this art museum on the University of Utah Campus. It is located in the Marcia and John Price Building on campus.\nThere are different sections in the gallery focusing on high quality art. Much of the art I knew and was impressed by the selection. They have art that focuses on the ancient and classical world, European and American masterworks, Asian art, art of Utah and the American West, and modern and contemporary art. My personal favorite was the art of Utah and the American West which had some stunning pieces.\nThere is an admission charge to the galleries.\nOne can park for free across the street from the Utah Museum of Fine Arts. The parking places are highlighted. One does need to register the car's license plate with the staff at the ticket desk at the gallery.", 
+        "companion": "solo", 
+        "contributions": 130586, 
+        "likes": "1", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1433397600", 
+        "review_title": "High Quality Art collection - Utah Museum of Fine Arts", 
+        "reviewer": "mini", 
+        "visit_time": "1430460000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_davidb_1425193200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a little, unexpected, gem. Unexpected, because I didn't think that there would be a museum in Salt Lake City with such high quality, and eclectic, collections. Gem, because it was really great.\nFrom what I gather, the collections were largely the work of one person, who collected, and probably funded, the works on display, over a 20 year or so period.\nThe spaces for each exhibit are thoughtfully done. Some spaces are smaller than others, yet the displays are excellent, each piece well exhibited, and there is no feeling that works are crammed together.\nEclectic, because there is a huge range of exhibits, time periods, cultures. The Oceania Exhibit is small, with each piece of high quality, and some are simply about as good as they get. Ditto for the small exhibit of Buddhist art. The European paintings are excellent.\nWe planned on spending a couple of hours, and decided that we had to return for another visit. The museum merits minimally 3 hours.\nThis would be a great place for a kid to come to time and again, for short periods, to gain an understanding of the huge variety of cultures, periods and art, that the world has to offer. But, then, I am recalling my own early experiences, being taken to museums by my parents, where I was first exposed to the amazing variety of eras, cultures and art.\nI should add that the staff are all very friendly, and made us feel welcomed.", 
+        "companion": "couples", 
+        "contributions": 327, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1426053600", 
+        "review_title": "A gem", 
+        "reviewer": "David B", 
+        "visit_time": "1425193200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_kjt2010sjt_1420095600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The Museum opened at 11am on Sunday and there were very few people there, which allowed me to take my time at the exhibits that I most enjoyed. They offer a good mix of kinds of art, with a larger exhibit of natural Utah Indian artifacts.", 
+        "companion": "family", 
+        "contributions": 27, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1422860400", 
+        "review_title": "Enjoyable late morning", 
+        "reviewer": "KJT2010SJT", 
+        "visit_time": "1420095600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_anabaile_1409551200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We have visited the UMFA a few times for special exhibits. Recently we had wanted to see the exhibit on the Bingham Canyon mine. It was very well done, including works from the museum's collection along with borrowed works from various sources. It piqued an interest in us about the process of curating a special exhibit.\nI would suggest that parking could be better marked and explained. The building itself is great with easy access. There is a cafe available, although we did not eat there. We took a quick walk through the gift shop and found it to be very interesting, having some unique items for sale.\nIn addition to the Bingham mine exhibit, we perused the other works on display from the permanent collection. I agree that Salt Lake can and should have a more extensive art museum, but we are pleased with what we have. From the display of the history of the museum in the cafe it is clear that there are many works in storage that could be displayed were there more space and personnel, for instance it referred to a vast collection of Navajo weavings in the permanent collection. I want to see them! It also mentioned a collection of Chinese porcelain. What is in storage that was NOT mentioned!!!\nAs far as current displays, it seems rather heavy on South Pacific island works. We found the variety and quality of paintings from American and European artists to be quite broadly represented. The biggest surprise to me was a video performance work. Usually I scoff, since I consider myself somewhat of a provincial...but it actually captivated me as I took time to watch it. So the museum opened my mind to something new on a rainy Saturday. I loved that about it. Well worth the visit.", 
+        "companion": "couples", 
+        "contributions": 197, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1411970400", 
+        "review_title": "A well-spent rainy Saturday afternoon", 
+        "reviewer": "AnaBaile", 
+        "visit_time": "1409551200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_kenb_1404194400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a modest-scale museum. The notable building is a fine display space. The permanent collection is limited in scope, but still manages to come up with some pleasant surprises. I found its array of American art to be quite serviceable. And the temporary exhibit on the Bingham Mine managed to be moving: and not just earth-moving! While a city the size of Salt Lake should certainly be able to support a greater arts effort, this is certainly a fine basis on which to build.\nNote: calling this the greatest art museum in Utah is unfortunately very faint praise indeed.", 
+        "companion": "couples", 
+        "contributions": 353, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1406008800", 
+        "review_title": "Art on a modest scale", 
+        "reviewer": "Ken B", 
+        "visit_time": "1404194400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_smiles030_1401602400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "the classical art and furniture is very nice but the collection is quite small. They had a nice exhibit about the Kennecott copper mine in Bingham which I had seen from the airplane. I had never seen such a large hole in the ground and had wondered what that was. This was the largest open pit copper mine in the world, visible from the space station but had a landslide in 2013 which forced them to close the mine. Nice little exhibit about the mine for those interested in such things. Took campus bus from here over to the museum of natural history for free.", 
+        "companion": "business", 
+        "contributions": 108, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1404194400", 
+        "review_title": "small museum", 
+        "reviewer": "smiles030", 
+        "visit_time": "1401602400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_smillie-girl_1391238000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Unfortunately I did not have time for a full walk-about but I did spend time in the gift store and ate at the cafe. Both are excellent. Kudos to the buyer for the Museum store - saw several unique items and the manner of display made it fun to walk around. At the cafe I had the apple & brie baguette. YUM! I will definitely return - UMFA has late hours on WED for the business travellers.", 
+        "companion": "business", 
+        "contributions": 112, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1393484400", 
+        "review_title": "Store and Cafe", 
+        "reviewer": "Smillie-girl", 
+        "visit_time": "1391238000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_roberth_1385881200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I have visited art museums around the world from the greatest to the smallest and would rate this one as mediocre for a city the size of Salt Lake. I lived in Salt Lake for eight years in the 1980s and concur with the opinion that the visual arts do not receive all that much attention. The permanent collection has a few nice works in several galleries painted in a garish orange that detracts from the paintings. The two special exhibits of note were paintings of the Great Salt Lake and contemporary prints. As an art aficionado, I spent a pleasant enough two hours but will repeat that a major urban center deserves a better art museum. The Swope Art Museum in Terre Haute, Indiana, a city with a metro population of 170,000, has a more impressive permanent collection. This museum certainly doesn't even come close to matching the Toledo Museum of Art in the city where I grew up.", 
+        "companion": "couples", 
+        "contributions": 123, 
+        "likes": "3", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1388300400", 
+        "review_title": "Good for Salt Lake but Still Average", 
+        "reviewer": "Robert H", 
+        "visit_time": "1385881200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_jtravelbuddy_1364796000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Price was right on Saturday (free). Native American subjects dominate, but overall it is well done. Building is beautiful.", 
+        "companion": "couples", 
+        "contributions": 145, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1366610400", 
+        "review_title": "Nice Place for a Short Visit", 
+        "reviewer": "JTravelBuddy", 
+        "visit_time": "1364796000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_wbullseye_1359702000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The Utah Museum of Fine Arts is located on the campus of the University of Utah in Salt Lake City. It is easy to find with signs along the main road. There is limited parking across the street from the museum as well as near the main entrance. Unless there is a football game, I wouldn't expect parking to be much of an issue however. The regular adult price for admission is $7, with discounts for senior citizens and children. Entrance is free for members of the military. However at $7 the museum is still worth it.\nThe museum is small but still provides an excellent selection of paintings and sculptures. Unlike many art museums in the US, this one actually has quality works by famous artists. You will not find any abstract or \"art done by monkeys\" here. They have temporary exhibits that rotate, but don't know how often.\nThey have a selection of Native American, US, Pacific Islands, ancient Egypt, Rome, and others in different rooms. While I was there they had a temporary exhibit titled: Bierstadt to Warhol: American Indians in the West, which was one of the better collections of art about the depiction of Native Americans I have seen at a small museum. The Native American There are signs that provide a background of the artist and the themes which help for those of us not familiar with them. There is also a free audio guide available, but didn't use it due to time restrictions.\nThe museum is open everyday except for Mondays and holidays. This makes it convenient for those looking for something to do on a Sunday. There is also a small cafe and store inside the museum. Photography is allowed throughout as long as you do not use a flash. I would definitely recommend the Utah Museum of Fine Arts. You can take as much time as necessary, but would plan on at least an hour or two.", 
+        "companion": "solo", 
+        "contributions": 1348, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1361170800", 
+        "review_title": "Small, but very well done", 
+        "reviewer": "wbullseye", 
+        "visit_time": "1359702000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_bikinchris_1341122400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "I stopped off to see the car display. They had one of the 6 Ford Daytona Coupes on display for a short while. They also had a couple of Dusenburgs.\nWe looked at a little of the art display and it was well chosen also.", 
+        "companion": "couples", 
+        "contributions": 94, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1345701600", 
+        "review_title": "Well done", 
+        "reviewer": "bikinchris", 
+        "visit_time": "1341122400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_kirstend_1312178400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "It wasn't too easy to find, the signage was quite small and confusing. The building is nice, with some permanent exhibits along with visiting ones. Rather small, but it is trying!", 
+        "contributions": 9, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1336888800", 
+        "review_title": "Campus Museum", 
+        "reviewer": "Kirsten D", 
+        "visit_time": "1312178400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_artaficionado_1309500000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Unfortunately, there is not much of a visual arts tradition in Utah. This means that the museum lacks a base of cultured donors like the ones responsible for great museums in other provincial U.S. cities (Toledo, Ohio springs to mind, among others.) The quality of paintings and sculptures is low. The exhibits are good for elementary kids who need some art exposure. The curator does have a remedial plan, which is to concentrate on contemporary art. This is a good plan, because there is lots and lots of contemporary art to be found, and nobody knows if it is good or bad until the curator tells them.", 
+        "companion": "solo", 
+        "contributions": 90, 
+        "likes": "2", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1325487600", 
+        "review_title": "Well, they try", 
+        "reviewer": "Artaficionado", 
+        "visit_time": "1309500000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_pnemiller_1306908000", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a very good museum on the campus of the U. of Utah with free visitor parking. The interior design is spectacular with a center gallery that is 2 to 3 stories high and dramatic stairs leading to the 2nd floor. The art work is eclectic. Excellent American and Western art--Remington Bronco Buster, Dixon, Gilbert Stuart, Sargent, etc. European art was OK, but not great. Interesting temporary exhibits, especially Levitt photographs. This place is worth a viist and is is a member of the North American Reciprocal Museums (NARM) so it is free to members of other museums. There is also a small cafe.", 
+        "companion": "couples", 
+        "contributions": 2272, 
+        "likes": "2", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1308463200", 
+        "review_title": "Very good art museum with striking interior on university campus", 
+        "reviewer": "Pnemiller", 
+        "visit_time": "1306908000"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_lucy4414", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "We wanted to go here when we visited Utah last year but the only day we had free then was a Monday and they don't open on Mondays. We had a voucher from a leaflet and were able to get one free entry so bith got in for $7. There were some great things to see with quite a range of stykes and cultures. The only bit we didn't enjoy was the Salt 1 exhibit - we couldn't see any artsitic value in a part-used toilet roll or an empty suitcase.", 
+        "contributions": 856, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1285999200", 
+        "review_title": "Very enjoyable visit", 
+        "reviewer": "lucy4414"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_pulaokhao", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This is a nice museum in a nice building; no flashy architecture by starchitect like gehry or libeskind but self-effacing building shows art very well. they do not have big name art like picasso or monet but small though comprehensive collection of european and american paintings as well as sculpture from asia and africa. full details on their website. i did not eat at their cafe. free parking. great place to spend a few hours if you like art museums.", 
+        "contributions": 120, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1283320800", 
+        "review_title": "Nice, moderate size museum", 
+        "reviewer": "PULAOKHAO"
+      }, 
+      "_type": "_doc"
+    }
+  ], 
+  "time_to_travel": [
+    {
+      "_id": "utahmuseumoffinearts_margatemensch2016_1625119200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "On a hot July Thursday,I spent a delightful day perusing its fine samples of paintings and Art produced by European Painters.European favorites that day were Master of Santa Maria De La Hoz'\"Saint john the Baptist\"(Spanish Renaissance),Polidoro di Bartolomeo's\"Crucifixion with Saints\"(Italian Renaissance),Pier Francesco Foschi's\"Young Man Weaving Wreath of Flowers\"(High italian Renaissance),Pieter Breughel the Younger's\"Maypole Dance\"(Flemish Baroque),Melchior D'Hondecoeter's\"Birds in Landscape\"(Dutch Master),Charles Lebrun's tapestry.\"Queens of Persia At Foot of Alexander The Great\"(18th Century),Gian Paolo Paninni's\"Capriccio with Roman Ruins\"(Italian Neoclassical),Etienne De Lavalle's\"Anacreon,Eros,Sappho,and Female Dancer\"(18th French),Jean Leon Gerome's\"Christian's Last Prayer\"(French Naturalism)Narcise De La Pena's\"Forest Pool\"(French Barbizon),and Armand Guillaumin's\"Le Maison Nannette a Crozant\"(French Expressionism).\nI also savored their fine samples of American Paintings and Art.Personal American favorites that day included John Copley's\"John,2nd Viscount\"(tip top Mannerism),Theodore Butler's\"Honfleur\"(quality Pointillism),Ralph Blakelock's\"Silvery Night\",Birger Sandzen's\"2 Pines\"(American Expressionism),Conrad Buff's\"Canyonlands\"(American Regionalism),Thomas Moran's\"Wilhelmina Pass,Weber Canyon,Utah\",and Louise Farnsworth's\"Blue Shadows\"(American Regionalism by Utah Painter).\nI also relished their fine collection of Antiquities from India such as;North India \"Vishnu and Avatars\"(12th Century Varanasi)\"Shiva With Parvati(10th Century),and \"Shiva,Lord of Dance\".I also enjoyed studying their Antiquities from China(Guan Yin,Ming)\nI spent a very productive day at one of the better university art museums in this region of the United States..I also liked the ambience of this art museum.", 
+        "contributions": 711, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1626069600", 
+        "review_title": "One Fine Day Perusing Quality Art", 
+        "reviewer": "margatemensch2016", 
+        "visit_time": "1625119200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_claudiao_1538373600", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "They have art from all times and all over the world. You'll find Renaissance, religious art, modern art, art from Asia, Africa, Central America. I liked the art from Central America of course because I'm from there; also the one from China and Egypt. I'll go again on the first Wednesday of November because it's free. The floors are wooden. This place is so exquisite. Only allowed to take pictures without flash so be careful because it's art and art is beautiful and important. U of U students enter for free with their ID but I'm a mother.", 
+        "companion": "solo", 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1539756000", 
+        "review_title": "Beautiful, exquisite museum.", 
+        "reviewer": "Claudia O", 
+        "visit_time": "1538373600"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_susans_1448953200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "My daughter and I enjoyed going to the museum on a cold winter day. We practically had the place to ourselves and it was fantastic!", 
+        "companion": "family", 
+        "likes": "1", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1458540000", 
+        "review_title": "Winter Art Fun", 
+        "reviewer": "Susan S", 
+        "visit_time": "1448953200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_sanddhwestchilt_1448953200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Great venue for wedding plus able to wander around the art exhibition between wedding breakfast and evening reception", 
+        "companion": "family", 
+        "contributions": 40, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1458540000", 
+        "review_title": "Wedding venue", 
+        "reviewer": "SandDHwestchilt", 
+        "visit_time": "1448953200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_montanacwby_1441087200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Visited the Utah Fine Arts in September on a trip to Salt Lake City. They showing an exhibit on Rural English Landscape Painters which was outstanding. The whole arrangement was well done and spent an enjoyable afternoon there. The cafeteria there is also very pleasant so make a day of it and eat there. The physical facility is new and very large. Well worth your time. They had something for everyone", 
+        "contributions": 5, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1445407200", 
+        "review_title": "Art in Utah, Is Great", 
+        "reviewer": "montanacwby", 
+        "visit_time": "1441087200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_seattlej_1438408800", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "This museum was very peaceful on a hot August afternoon. There are lovely Old Master paintings and changing exhibits. The caf was a nice place to relax with a cold drink.", 
+        "companion": "family", 
+        "contributions": 77, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1439359200", 
+        "review_title": "Lovely small museum", 
+        "reviewer": "Seattle J", 
+        "visit_time": "1438408800"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_floridagirlp-cola_1362121200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "After reading that they had 18000 objects from around the world, I was disappointed. I went in the late morning and school groups at most exhibits. The exhibits on the Indians and Mummies (small) were interesting but no unforgettable pieces.\nThis museum is easy to walk to from the South Campus Trax station.", 
+        "companion": "family", 
+        "contributions": 775, 
+        "likes": "1", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1364018400", 
+        "review_title": "Expected more. Glad it was part of Connect PASS.", 
+        "reviewer": "FloridagirlP-cola", 
+        "visit_time": "1362121200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_colony_1320127200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "Beware of what you purchase here. You may think you are buying locally made Indian items and I found stickers on many pieces from Indonesia. I was very disappointed.", 
+        "contributions": 35, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1321513200", 
+        "review_title": "Items being sold here were from other countries for the most part", 
+        "reviewer": "colony", 
+        "visit_time": "1320127200"
+      }, 
+      "_type": "_doc"
+    }
+  ], 
+  "transportation": [
+    {
+      "_id": "utahmuseumoffinearts_jiml_1443679200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "The UMFA is located on the University of Utah campus, readily accessible from downtown SLC via the TRAX red line (I used the Stadium stop but South Campus might be okay too). The museum is not huge but there is good space to accommodate touring exhibits plus the permanent collection. The latter focuses on painting but there is a small diversity including art from India, Pacific Islands, Egypt and some other parts of the world. Keep an eye out for some interesting contemporary exhibitions.\nFull adult admission is $14 (discounts for seniors, students, etc). This is waived for North American Reciprocal Museums members. Also, general admission is free on the first Wednesdays and third Saturdays each month.", 
+        "companion": "solo", 
+        "contributions": 1865, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1458540000", 
+        "review_title": "Utah does have some fine arts; worth a visit", 
+        "reviewer": "Jim L", 
+        "visit_time": "1443679200"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_smiles030_1401602400", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "the classical art and furniture is very nice but the collection is quite small. They had a nice exhibit about the Kennecott copper mine in Bingham which I had seen from the airplane. I had never seen such a large hole in the ground and had wondered what that was. This was the largest open pit copper mine in the world, visible from the space station but had a landslide in 2013 which forced them to close the mine. Nice little exhibit about the mine for those interested in such things. Took campus bus from here over to the museum of natural history for free.", 
+        "companion": "business", 
+        "contributions": 108, 
+        "likes": "0", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1404194400", 
+        "review_title": "small museum", 
+        "reviewer": "smiles030", 
+        "visit_time": "1401602400"
+      }, 
+      "_type": "_doc"
+    }, 
+    {
+      "_id": "utahmuseumoffinearts_floridagirlp-cola_1362121200", 
+      "_index": "reviews", 
+      "_score": 0.0, 
+      "_source": {
+        "comment": "After reading that they had 18000 objects from around the world, I was disappointed. I went in the late morning and school groups at most exhibits. The exhibits on the Indians and Mummies (small) were interesting but no unforgettable pieces.\nThis museum is easy to walk to from the South Campus Trax station.", 
+        "companion": "family", 
+        "contributions": 775, 
+        "likes": "1", 
+        "place_name": "Utah Museum of Fine Arts", 
+        "place_url": "https://www.tripadvisor.com/Attraction_Review-g60922-d272255-Reviews-Utah_Museum_of_Fine_Arts-Salt_Lake_City_Utah.html", 
+        "review_time": "1364018400", 
+        "review_title": "Expected more. Glad it was part of Connect PASS.", 
+        "reviewer": "FloridagirlP-cola", 
+        "visit_time": "1362121200"
+      }, 
+      "_type": "_doc"
+    }
+  ]
+}
